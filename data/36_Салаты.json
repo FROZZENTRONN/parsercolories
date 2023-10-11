@@ -1,0 +1,1563 @@
+﻿[
+    {
+        "Title": "Винегрет",
+        "Colories": "130,1 кКал",
+        "Proteins": "1,7 г",
+        "Fats": "10,3 г",
+        "Carbohydrates": "8,2 г"
+    },
+    {
+        "Title": "Винегрет из овощей",
+        "Colories": "176,9 кКал",
+        "Proteins": "1,9 г",
+        "Fats": "13,9 г",
+        "Carbohydrates": "11,7 г"
+    },
+    {
+        "Title": "Винегрет из овощей и фруктов",
+        "Colories": "137,4 кКал",
+        "Proteins": "1,9 г",
+        "Fats": "9,5 г",
+        "Carbohydrates": "11,9 г"
+    },
+    {
+        "Title": "Винегрет из овощей, яблок и зелени",
+        "Colories": "104,2 кКал",
+        "Proteins": "1,6 г",
+        "Fats": "7,3 г",
+        "Carbohydrates": "8,6 г"
+    },
+    {
+        "Title": "Винегрет из перца с картофелем",
+        "Colories": "97,4 кКал",
+        "Proteins": "3 г",
+        "Fats": "6,2 г",
+        "Carbohydrates": "7,9 г"
+    },
+    {
+        "Title": "Винегрет из фруктов и овощей",
+        "Colories": "128,5 кКал",
+        "Proteins": "2,1 г",
+        "Fats": "8,2 г",
+        "Carbohydrates": "12,4 г"
+    },
+    {
+        "Title": "Винегрет овощной",
+        "Colories": "76,6 кКал",
+        "Proteins": "1,7 г",
+        "Fats": "4,9 г",
+        "Carbohydrates": "6,8 г"
+    },
+    {
+        "Title": "Винегрет овощной",
+        "Colories": "158,7 кКал",
+        "Proteins": "5,7 г",
+        "Fats": "8,4 г",
+        "Carbohydrates": "16,2 г"
+    },
+    {
+        "Title": "Винегрет по-румынски",
+        "Colories": "208,1 кКал",
+        "Proteins": "6,2 г",
+        "Fats": "16,8 г",
+        "Carbohydrates": "8,7 г"
+    },
+    {
+        "Title": "Винегрет с консервированным мясом",
+        "Colories": "215 кКал",
+        "Proteins": "10,3 г",
+        "Fats": "15,4 г",
+        "Carbohydrates": "9,5 г"
+    },
+    {
+        "Title": "Винегрет с селедкой",
+        "Colories": "119,1 кКал",
+        "Proteins": "4,5 г",
+        "Fats": "6,9 г",
+        "Carbohydrates": "10,5 г"
+    },
+    {
+        "Title": "Винегрет с сельдью",
+        "Colories": "179,2 кКал",
+        "Proteins": "9,1 г",
+        "Fats": "13 г",
+        "Carbohydrates": "6,8 г"
+    },
+    {
+        "Title": "Диетический салат из свеклы и яблок",
+        "Colories": "94,2 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "3 г",
+        "Carbohydrates": "17 г"
+    },
+    {
+        "Title": "Жареный салат \"Универсал\"",
+        "Colories": "26,6 кКал",
+        "Proteins": "1 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "5,5 г"
+    },
+    {
+        "Title": "Морковный салат",
+        "Colories": "88,2 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "7,5 г",
+        "Carbohydrates": "4,7 г"
+    },
+    {
+        "Title": "Морковь с помидорами и яблоками",
+        "Colories": "44,4 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "7 г"
+    },
+    {
+        "Title": "Огуречный салат",
+        "Colories": "131,5 кКал",
+        "Proteins": "3,7 г",
+        "Fats": "12 г",
+        "Carbohydrates": "2,2 г"
+    },
+    {
+        "Title": "Окрошка",
+        "Colories": "75,7 кКал",
+        "Proteins": "3,7 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "Title": "Окрошка",
+        "Colories": "57,2 кКал",
+        "Proteins": "2,4 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "Title": "Окрошка мясная",
+        "Colories": "89,1 кКал",
+        "Proteins": "7 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "Title": "Окрошка овощная",
+        "Colories": "48,1 кКал",
+        "Proteins": "1,9 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "6,4 г"
+    },
+    {
+        "Title": "Окрошка сборная мясная",
+        "Colories": "95,1 кКал",
+        "Proteins": "5,1 г",
+        "Fats": "6,4 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "Title": "Оригинальный салат",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Пестрый летний салат",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Пестрый салат",
+        "Colories": "73,9 кКал",
+        "Proteins": "3,7 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "11,2 г"
+    },
+    {
+        "Title": "Печеночный салат",
+        "Colories": "104,7 кКал",
+        "Proteins": "8,2 г",
+        "Fats": "7,5 г",
+        "Carbohydrates": "1,1 г"
+    },
+    {
+        "Title": "Пикантный салат",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Помидоры с огурцами и перцем",
+        "Colories": "30,7 кКал",
+        "Proteins": "1 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "Title": "Помидоры с огурцами и яблоками",
+        "Colories": "65,7 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "4,9 г",
+        "Carbohydrates": "4,8 г"
+    },
+    {
+        "Title": "Помидоры с чесночной заправкой",
+        "Colories": "70,9 кКал",
+        "Proteins": "3,9 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "10,1 г"
+    },
+    {
+        "Title": "Помидоры, фаршированные  салатом из яблок и огурцов",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Помидоры, фаршированные салатом из яблок и огурцов.",
+        "Colories": "53,5 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "5,8 г"
+    },
+    {
+        "Title": "Редиска со сметаной",
+        "Colories": "103,5 кКал",
+        "Proteins": "2,7 г",
+        "Fats": "9 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "Title": "Редька в сметане",
+        "Colories": "111,8 кКал",
+        "Proteins": "2 г",
+        "Fats": "9,2 г",
+        "Carbohydrates": "5,5 г"
+    },
+    {
+        "Title": "Рыбный салат",
+        "Colories": "145,6 кКал",
+        "Proteins": "5,1 г",
+        "Fats": "12 г",
+        "Carbohydrates": "4,5 г"
+    },
+    {
+        "Title": "Рыбный салат",
+        "Colories": "207 кКал",
+        "Proteins": "9,3 г",
+        "Fats": "18,3 г",
+        "Carbohydrates": "1,4 г"
+    },
+    {
+        "Title": "Салат \"Ак-идель\" (рыбный с рисом по-башкирски)",
+        "Colories": "368,8 кКал",
+        "Proteins": "18,4 г",
+        "Fats": "29,6 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "Title": "Салат \"Архиерейский\"",
+        "Colories": "221,5 кКал",
+        "Proteins": "5,9 г",
+        "Fats": "20,8 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "Title": "Салат \"Весна\"",
+        "Colories": "90,3 кКал",
+        "Proteins": "3 г",
+        "Fats": "7,4 г",
+        "Carbohydrates": "3,1 г"
+    },
+    {
+        "Title": "Салат \"Гнездо глухаря\"",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Салат \"Гранат\"",
+        "Colories": "225,9 кКал",
+        "Proteins": "4,7 г",
+        "Fats": "18 г",
+        "Carbohydrates": "12 г"
+    },
+    {
+        "Title": "Салат \"Гранатовый браслет\"",
+        "Colories": "166,6 кКал",
+        "Proteins": "3,9 г",
+        "Fats": "14,2 г",
+        "Carbohydrates": "6,1 г"
+    },
+    {
+        "Title": "Салат \"Грибки\"",
+        "Colories": "77,6 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "4,7 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "Салат \"Золушка\"",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Салат \"Киевский\"",
+        "Colories": "160,9 кКал",
+        "Proteins": "5 г",
+        "Fats": "12 г",
+        "Carbohydrates": "8,8 г"
+    },
+    {
+        "Title": "Салат \"Копенгагенский\"",
+        "Colories": "75,7 кКал",
+        "Proteins": "3 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "Title": "Салат \"Кремлевский\"",
+        "Colories": "252,3 кКал",
+        "Proteins": "5,8 г",
+        "Fats": "22,1 г",
+        "Carbohydrates": "7,9 г"
+    },
+    {
+        "Title": "Салат \"Летний\"",
+        "Colories": "102,5 кКал",
+        "Proteins": "3,6 г",
+        "Fats": "7,5 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "Title": "Салат \"Матрешки\"",
+        "Colories": "125,9 кКал",
+        "Proteins": "11,4 г",
+        "Fats": "8,4 г",
+        "Carbohydrates": "1,2 г"
+    },
+    {
+        "Title": "Салат \"Мимоза\"",
+        "Colories": "296,6 кКал",
+        "Proteins": "6,3 г",
+        "Fats": "28,3 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "Title": "Салат \"Молдова\"",
+        "Colories": "283,5 кКал",
+        "Proteins": "5,5 г",
+        "Fats": "20,4 г",
+        "Carbohydrates": "20,7 г"
+    },
+    {
+        "Title": "Салат \"Московский\"",
+        "Colories": "280,3 кКал",
+        "Proteins": "4,7 г",
+        "Fats": "24,7 г",
+        "Carbohydrates": "10,5 г"
+    },
+    {
+        "Title": "Салат \"Невеста\"",
+        "Colories": "218,7 кКал",
+        "Proteins": "4,3 г",
+        "Fats": "18,5 г",
+        "Carbohydrates": "9,4 г"
+    },
+    {
+        "Title": "Салат \"Нежность\"",
+        "Colories": "211 кКал",
+        "Proteins": "5,1 г",
+        "Fats": "8,7 г",
+        "Carbohydrates": "30 г"
+    },
+    {
+        "Title": "Салат \"Обжарка\"",
+        "Colories": "132,6 кКал",
+        "Proteins": "3,8 г",
+        "Fats": "11,9 г",
+        "Carbohydrates": "2,7 г"
+    },
+    {
+        "Title": "Салат \"Осенний\" из свежих овощей с рыбой",
+        "Colories": "123 кКал",
+        "Proteins": "8,3 г",
+        "Fats": "7,7 г",
+        "Carbohydrates": "5,5 г"
+    },
+    {
+        "Title": "Салат \"Острый\" из картофеля с ветчиной и чесноком",
+        "Colories": "175 кКал",
+        "Proteins": "5,9 г",
+        "Fats": "10,3 г",
+        "Carbohydrates": "15,5 г"
+    },
+    {
+        "Title": "Салат \"Петровский\" грибной с квашеной капустой и огурцами",
+        "Colories": "110,5 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "10,3 г",
+        "Carbohydrates": "3,1 г"
+    },
+    {
+        "Title": "Салат \"Приятное с полезным\"",
+        "Colories": "101,7 кКал",
+        "Proteins": "8,5 г",
+        "Fats": "0,7 г",
+        "Carbohydrates": "16,5 г"
+    },
+    {
+        "Title": "Салат \"Тихая заводь\"",
+        "Colories": "259,9 кКал",
+        "Proteins": "7,8 г",
+        "Fats": "23,5 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "Title": "Салат \"Универсал\"",
+        "Colories": "27,2 кКал",
+        "Proteins": "1 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "5,6 г"
+    },
+    {
+        "Title": "Салат \"Фантазия\"",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Салат \"Цезарь\"",
+        "Colories": "303,6 кКал",
+        "Proteins": "14,8 г",
+        "Fats": "17,2 г",
+        "Carbohydrates": "24 г"
+    },
+    {
+        "Title": "Салат \"Цезарь\" классический",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Салат \"Эгоист\"",
+        "Colories": "252,3 кКал",
+        "Proteins": "10,5 г",
+        "Fats": "19,5 г",
+        "Carbohydrates": "9,2 г"
+    },
+    {
+        "Title": "Салат \"Эксклюзив\"",
+        "Colories": "100,4 кКал",
+        "Proteins": "7,2 г",
+        "Fats": "6,8 г",
+        "Carbohydrates": "2,9 г"
+    },
+    {
+        "Title": "Салат \"Экспериментальный\"",
+        "Colories": "85 кКал",
+        "Proteins": "2,6 г",
+        "Fats": "4,2 г",
+        "Carbohydrates": "9,8 г"
+    },
+    {
+        "Title": "Салат \"Эстонский\"",
+        "Colories": "166,2 кКал",
+        "Proteins": "2,3 г",
+        "Fats": "14,2 г",
+        "Carbohydrates": "7,8 г"
+    },
+    {
+        "Title": "Салат витаминный - 1",
+        "Colories": "101 кКал",
+        "Proteins": "1,3 г",
+        "Fats": "7,4 г",
+        "Carbohydrates": "7,8 г"
+    },
+    {
+        "Title": "Салат витаминный - 2",
+        "Colories": "113,7 кКал",
+        "Proteins": "1,4 г",
+        "Fats": "7,7 г",
+        "Carbohydrates": "10,3 г"
+    },
+    {
+        "Title": "Салат гороховый с яблоками",
+        "Colories": "102,3 кКал",
+        "Proteins": "3,3 г",
+        "Fats": "5,3 г",
+        "Carbohydrates": "11,2 г"
+    },
+    {
+        "Title": "Салат греческий",
+        "Colories": "188,5 кКал",
+        "Proteins": "3,9 г",
+        "Fats": "17,8 г",
+        "Carbohydrates": "3,4 г"
+    },
+    {
+        "Title": "Салат для мужчин",
+        "Colories": "127,5 кКал",
+        "Proteins": "1,6 г",
+        "Fats": "10 г",
+        "Carbohydrates": "8,3 г"
+    },
+    {
+        "Title": "Салат из апельсинов и лука-порея",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Салат из белокачанной капусты",
+        "Colories": "67,9 кКал",
+        "Proteins": "1,8 г",
+        "Fats": "3,6 г",
+        "Carbohydrates": "7,6 г"
+    },
+    {
+        "Title": "Салат из белокочанной и морской капусты",
+        "Colories": "84,6 кКал",
+        "Proteins": "1,8 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "8,4 г"
+    },
+    {
+        "Title": "Салат из белокочанной капусты с кальмарами",
+        "Colories": "229,5 кКал",
+        "Proteins": "14 г",
+        "Fats": "17,7 г",
+        "Carbohydrates": "3,7 г"
+    },
+    {
+        "Title": "Салат из белокочанной капусты с сельдью и шпиком",
+        "Colories": "185,6 кКал",
+        "Proteins": "13 г",
+        "Fats": "13 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "Title": "Салат из белокочанной капусты с яблоками и сельдереем",
+        "Colories": "85,3 кКал",
+        "Proteins": "1,6 г",
+        "Fats": "5 г",
+        "Carbohydrates": "9 г"
+    },
+    {
+        "Title": "Салат из белых грибов или шампиньонов",
+        "Colories": "62,3 кКал",
+        "Proteins": "5,2 г",
+        "Fats": "2,5 г",
+        "Carbohydrates": "5,2 г"
+    },
+    {
+        "Title": "Салат из бобов",
+        "Colories": "157,4 кКал",
+        "Proteins": "3,3 г",
+        "Fats": "13,9 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "Title": "Салат из грибов и квашеной капусты",
+        "Colories": "120,3 кКал",
+        "Proteins": "2 г",
+        "Fats": "8,7 г",
+        "Carbohydrates": "8,9 г"
+    },
+    {
+        "Title": "Салат из грибов с сельдью",
+        "Colories": "135,7 кКал",
+        "Proteins": "8,2 г",
+        "Fats": "10,8 г",
+        "Carbohydrates": "1,6 г"
+    },
+    {
+        "Title": "Салат из зелени с дичью",
+        "Colories": "230,4 кКал",
+        "Proteins": "6,8 г",
+        "Fats": "18,5 г",
+        "Carbohydrates": "9,7 г"
+    },
+    {
+        "Title": "Салат из кабачков и помидоров",
+        "Colories": "103,4 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "9 г",
+        "Carbohydrates": "4,8 г"
+    },
+    {
+        "Title": "Салат из кальмаров с яблоками",
+        "Colories": "315,3 кКал",
+        "Proteins": "16,4 г",
+        "Fats": "21,6 г",
+        "Carbohydrates": "14,7 г"
+    },
+    {
+        "Title": "Салат из капусты с апельсинами",
+        "Colories": "99,1 кКал",
+        "Proteins": "2,5 г",
+        "Fats": "5,3 г",
+        "Carbohydrates": "11,1 г"
+    },
+    {
+        "Title": "Салат из капусты с грибами",
+        "Colories": "106,6 кКал",
+        "Proteins": "5,9 г",
+        "Fats": "5,5 г",
+        "Carbohydrates": "9 г"
+    },
+    {
+        "Title": "Салат из капусты с яблоками",
+        "Colories": "32,4 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "Салат из капусты с яблоками",
+        "Colories": "60,2 кКал",
+        "Proteins": "2,5 г",
+        "Fats": "3,1 г",
+        "Carbohydrates": "6 г"
+    },
+    {
+        "Title": "Салат из капусты с яблоками и луком",
+        "Colories": "71,7 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "2,3 г",
+        "Carbohydrates": "12,4 г"
+    },
+    {
+        "Title": "Салат из картофеля с морской капустой и свеклой",
+        "Colories": "114 кКал",
+        "Proteins": "2,1 г",
+        "Fats": "7,8 г",
+        "Carbohydrates": "9,4 г"
+    },
+    {
+        "Title": "Салат из картофеля с редькой и яблоками",
+        "Colories": "205,8 кКал",
+        "Proteins": "4,2 г",
+        "Fats": "17,9 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "Title": "Салат из квашенной капусты",
+        "Colories": "77,8 кКал",
+        "Proteins": "1,6 г",
+        "Fats": "3,1 г",
+        "Carbohydrates": "11,6 г"
+    },
+    {
+        "Title": "Салат из квашенной капусты и свеклы",
+        "Colories": "69,9 кКал",
+        "Proteins": "1,9 г",
+        "Fats": "5 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "Title": "Салат из квашеной капусты",
+        "Colories": "101,7 кКал",
+        "Proteins": "1,4 г",
+        "Fats": "8,1 г",
+        "Carbohydrates": "6,2 г"
+    },
+    {
+        "Title": "Салат из квашеной капусты с селью",
+        "Colories": "165,3 кКал",
+        "Proteins": "8 г",
+        "Fats": "11,4 г",
+        "Carbohydrates": "8,3 г"
+    },
+    {
+        "Title": "Салат из кильки в томатном соусе",
+        "Colories": "283,5 кКал",
+        "Proteins": "5 г",
+        "Fats": "27,2 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "Title": "Салат из кольраби",
+        "Colories": "144,8 кКал",
+        "Proteins": "2,1 г",
+        "Fats": "12,3 г",
+        "Carbohydrates": "7 г"
+    },
+    {
+        "Title": "Салат из крабов",
+        "Colories": "171,8 кКал",
+        "Proteins": "14,7 г",
+        "Fats": "9,5 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "Title": "Салат из красного сладкого перца, зеленого горошка и риса",
+        "Colories": "247,2 кКал",
+        "Proteins": "10 г",
+        "Fats": "5,3 г",
+        "Carbohydrates": "42,4 г"
+    },
+    {
+        "Title": "Салат из краснокачанной капусты",
+        "Colories": "64,4 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "3,6 г",
+        "Carbohydrates": "7,8 г"
+    },
+    {
+        "Title": "Салат из краснокачанной капусты с яблоками",
+        "Colories": "38,1 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "8,6 г"
+    },
+    {
+        "Title": "Салат из краснокочанной капусты",
+        "Colories": "86,8 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "7,8 г"
+    },
+    {
+        "Title": "Салат из краснокочанной капусты с грибами",
+        "Colories": "97,4 кКал",
+        "Proteins": "1,8 г",
+        "Fats": "6,5 г",
+        "Carbohydrates": "8,4 г"
+    },
+    {
+        "Title": "Салат из креветок с рисом",
+        "Colories": "310,1 кКал",
+        "Proteins": "25,6 г",
+        "Fats": "10,3 г",
+        "Carbohydrates": "30,6 г"
+    },
+    {
+        "Title": "Салат из кукурузы",
+        "Colories": "317,6 кКал",
+        "Proteins": "8,8 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "54,8 г"
+    },
+    {
+        "Title": "Салат из курицы по-архангельски",
+        "Colories": "195,9 кКал",
+        "Proteins": "4,7 г",
+        "Fats": "15 г",
+        "Carbohydrates": "11,3 г"
+    },
+    {
+        "Title": "Салат из маринованной свеклы с яблоками",
+        "Colories": "90,1 кКал",
+        "Proteins": "1,3 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "8 г"
+    },
+    {
+        "Title": "Салат из моркови",
+        "Colories": "191,8 кКал",
+        "Proteins": "5,7 г",
+        "Fats": "7,6 г",
+        "Carbohydrates": "26,8 г"
+    },
+    {
+        "Title": "Салат из моркови и капусты",
+        "Colories": "140,6 кКал",
+        "Proteins": "1,7 г",
+        "Fats": "11 г",
+        "Carbohydrates": "9,2 г"
+    },
+    {
+        "Title": "Салат из моркови с курагой, помидорами и яблоками",
+        "Colories": "78,2 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "12,8 г"
+    },
+    {
+        "Title": "Салат из моркови с орехами и медом",
+        "Colories": "219,4 кКал",
+        "Proteins": "4,9 г",
+        "Fats": "15,2 г",
+        "Carbohydrates": "16,7 г"
+    },
+    {
+        "Title": "Салат из моркови с хреном",
+        "Colories": "141,2 кКал",
+        "Proteins": "1,9 г",
+        "Fats": "12,6 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "Title": "Салат из морского гребешка с огурцами",
+        "Colories": "148,2 кКал",
+        "Proteins": "9 г",
+        "Fats": "11,1 г",
+        "Carbohydrates": "3,3 г"
+    },
+    {
+        "Title": "Салат из овощей с капустой морской",
+        "Colories": "136,8 кКал",
+        "Proteins": "2 г",
+        "Fats": "10,6 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "Title": "Салат из огурцов",
+        "Colories": "57 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "4,5 г",
+        "Carbohydrates": "3,2 г"
+    },
+    {
+        "Title": "Салат из огурцов",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Салат из перца",
+        "Colories": "173 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "16,9 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "Title": "Салат из помидоров",
+        "Colories": "146 кКал",
+        "Proteins": "4,4 г",
+        "Fats": "12,4 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "Title": "Салат из помидоров и огурцов",
+        "Colories": "89,2 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "7,7 г",
+        "Carbohydrates": "4,5 г"
+    },
+    {
+        "Title": "Салат из помидоров по-чилийски",
+        "Colories": "19,9 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "Title": "Салат из помидоров, огурцов и сладкого перца",
+        "Colories": "25 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "5,2 г"
+    },
+    {
+        "Title": "Салат из птицы  или дичи",
+        "Colories": "198,8 кКал",
+        "Proteins": "5,6 г",
+        "Fats": "15,1 г",
+        "Carbohydrates": "10,9 г"
+    },
+    {
+        "Title": "Салат из птицы или дичи",
+        "Colories": "243,5 кКал",
+        "Proteins": "11,2 г",
+        "Fats": "19,4 г",
+        "Carbohydrates": "6,3 г"
+    },
+    {
+        "Title": "Салат из разных фруктов",
+        "Colories": "147,3 кКал",
+        "Proteins": "1 г",
+        "Fats": "11,9 г",
+        "Carbohydrates": "9,5 г"
+    },
+    {
+        "Title": "Салат из редиса",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Салат из редиски со метаной",
+        "Colories": "106,4 кКал",
+        "Proteins": "2 г",
+        "Fats": "9,3 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "Title": "Салат из редьки",
+        "Colories": "204,2 кКал",
+        "Proteins": "2,2 г",
+        "Fats": "19,1 г",
+        "Carbohydrates": "6,3 г"
+    },
+    {
+        "Title": "Салат из редьки и картофеля по-кабардински",
+        "Colories": "128,4 кКал",
+        "Proteins": "4,7 г",
+        "Fats": "9,2 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "Title": "Салат из редьки с орехами",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Салат из репы",
+        "Colories": "142,6 кКал",
+        "Proteins": "1,8 г",
+        "Fats": "9,4 г",
+        "Carbohydrates": "13,6 г"
+    },
+    {
+        "Title": "Салат из рыбы",
+        "Colories": "184,9 кКал",
+        "Proteins": "10,5 г",
+        "Fats": "13 г",
+        "Carbohydrates": "6,9 г"
+    },
+    {
+        "Title": "Салат из свежей капусты с мясом",
+        "Colories": "143,1 кКал",
+        "Proteins": "3,7 г",
+        "Fats": "12,8 г",
+        "Carbohydrates": "3,6 г"
+    },
+    {
+        "Title": "Салат из свежих овощей",
+        "Colories": "77,5 кКал",
+        "Proteins": "1,6 г",
+        "Fats": "4,4 г",
+        "Carbohydrates": "8,3 г"
+    },
+    {
+        "Title": "Салат из свеклы и хрена",
+        "Colories": "95,6 кКал",
+        "Proteins": "1,3 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "11,6 г"
+    },
+    {
+        "Title": "Салат из свеклы с орехами",
+        "Colories": "117,8 кКал",
+        "Proteins": "1,7 г",
+        "Fats": "8,8 г",
+        "Carbohydrates": "8,5 г"
+    },
+    {
+        "Title": "Салат из свеклы с сыром и чесноком",
+        "Colories": "211,6 кКал",
+        "Proteins": "7,1 г",
+        "Fats": "17,1 г",
+        "Carbohydrates": "7,8 г"
+    },
+    {
+        "Title": "Салат из свеклы с хреном",
+        "Colories": "46,8 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "10,7 г"
+    },
+    {
+        "Title": "Салат из свеклы с черносливом, орехами и чесноком",
+        "Colories": "284 кКал",
+        "Proteins": "7,1 г",
+        "Fats": "15,6 г",
+        "Carbohydrates": "30,7 г"
+    },
+    {
+        "Title": "Салат из сельди",
+        "Colories": "204,1 кКал",
+        "Proteins": "11,9 г",
+        "Fats": "14,7 г",
+        "Carbohydrates": "6,4 г"
+    },
+    {
+        "Title": "Салат из соленых огурцов и брюквы",
+        "Colories": "66,6 кКал",
+        "Proteins": "1,9 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "6,8 г"
+    },
+    {
+        "Title": "Салат из соленых огурцов и редьки",
+        "Colories": "90,8 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "7,7 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "Title": "Салат из соленых огурцов и свеклы",
+        "Colories": "95 кКал",
+        "Proteins": "1,4 г",
+        "Fats": "7,6 г",
+        "Carbohydrates": "5,6 г"
+    },
+    {
+        "Title": "Салат из спаржи",
+        "Colories": "237,5 кКал",
+        "Proteins": "2,1 г",
+        "Fats": "23,9 г",
+        "Carbohydrates": "3,6 г"
+    },
+    {
+        "Title": "Салат из стручковой фасоли",
+        "Colories": "215,9 кКал",
+        "Proteins": "16,1 г",
+        "Fats": "3,9 г",
+        "Carbohydrates": "31,1 г"
+    },
+    {
+        "Title": "Салат из стручковой фасоли",
+        "Colories": "132,5 кКал",
+        "Proteins": "2,8 г",
+        "Fats": "10,5 г",
+        "Carbohydrates": "7,2 г"
+    },
+    {
+        "Title": "Салат из сырой моркови и репы",
+        "Colories": "115,9 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "8,8 г",
+        "Carbohydrates": "8,2 г"
+    },
+    {
+        "Title": "Салат из сырой моркови м яблоками",
+        "Colories": "82,2 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "Title": "Салат из сырой свеклы",
+        "Colories": "76,7 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "4,7 г",
+        "Carbohydrates": "8 г"
+    },
+    {
+        "Title": "Салат из сырых овощей",
+        "Colories": "94,3 кКал",
+        "Proteins": "1,6 г",
+        "Fats": "7,6 г",
+        "Carbohydrates": "5,3 г"
+    },
+    {
+        "Title": "Салат из сырых овощей с яблоками",
+        "Colories": "58 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "3,3 г",
+        "Carbohydrates": "6,4 г"
+    },
+    {
+        "Title": "Салат из творога",
+        "Colories": "246,4 кКал",
+        "Proteins": "12,6 г",
+        "Fats": "19,2 г",
+        "Carbohydrates": "6,1 г"
+    },
+    {
+        "Title": "Салат из трески с майонезом",
+        "Colories": "184,6 кКал",
+        "Proteins": "9,9 г",
+        "Fats": "15 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "Салат из трески с хреном",
+        "Colories": "164,8 кКал",
+        "Proteins": "8,9 г",
+        "Fats": "10,1 г",
+        "Carbohydrates": "10 г"
+    },
+    {
+        "Title": "Салат из тыквы",
+        "Colories": "73 кКал",
+        "Proteins": "0,9 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "3,8 г"
+    },
+    {
+        "Title": "Салат из тыквы по-чувашски",
+        "Colories": "82,9 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "20,4 г"
+    },
+    {
+        "Title": "Салат из тыквы с яблоками",
+        "Colories": "35,7 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "8,2 г"
+    },
+    {
+        "Title": "Салат из фасоли",
+        "Colories": "345,2 кКал",
+        "Proteins": "0,9 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "88,9 г"
+    },
+    {
+        "Title": "Салат из фасоли",
+        "Colories": "336,6 кКал",
+        "Proteins": "13,8 г",
+        "Fats": "19,6 г",
+        "Carbohydrates": "28,1 г"
+    },
+    {
+        "Title": "Салат из фруктов",
+        "Colories": "95,2 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "4,9 г",
+        "Carbohydrates": "12,9 г"
+    },
+    {
+        "Title": "Салат из цветной капусты",
+        "Colories": "53,2 кКал",
+        "Proteins": "1,8 г",
+        "Fats": "3,8 г",
+        "Carbohydrates": "3,1 г"
+    },
+    {
+        "Title": "Салат из цветной капусты",
+        "Colories": "69,1 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "5,7 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "Title": "Салат из цветной капусты, свежих огурцов и помидоров",
+        "Colories": "77,3 кКал",
+        "Proteins": "2 г",
+        "Fats": "5,3 г",
+        "Carbohydrates": "5,6 г"
+    },
+    {
+        "Title": "Салат из шампиньонов",
+        "Colories": "143,1 кКал",
+        "Proteins": "3,9 г",
+        "Fats": "12,5 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "Title": "Салат из щавеля",
+        "Colories": "200,1 кКал",
+        "Proteins": "2,3 г",
+        "Fats": "18,8 г",
+        "Carbohydrates": "5,8 г"
+    },
+    {
+        "Title": "Салат из яблок и брусники",
+        "Colories": "78,6 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "5 г",
+        "Carbohydrates": "8,1 г"
+    },
+    {
+        "Title": "Салат из яблок и лука",
+        "Colories": "111,1 кКал",
+        "Proteins": "1 г",
+        "Fats": "8,3 г",
+        "Carbohydrates": "8,6 г"
+    },
+    {
+        "Title": "Салат из яблок и моркови  с орехами",
+        "Colories": "152,6 кКал",
+        "Proteins": "4,1 г",
+        "Fats": "6,8 г",
+        "Carbohydrates": "19,9 г"
+    },
+    {
+        "Title": "Салат из яблок и помидоров",
+        "Colories": "67,1 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "4,1 г",
+        "Carbohydrates": "7,2 г"
+    },
+    {
+        "Title": "Салат из яблок и сливы",
+        "Colories": "97,9 кКал",
+        "Proteins": "2,6 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "18,1 г"
+    },
+    {
+        "Title": "Салат из яблок и тыквы",
+        "Colories": "36,2 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "8,3 г"
+    },
+    {
+        "Title": "Салат из яблок с орехами",
+        "Colories": "75,8 кКал",
+        "Proteins": "1,7 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "17,6 г"
+    },
+    {
+        "Title": "Салат картофельный",
+        "Colories": "127,9 кКал",
+        "Proteins": "2,5 г",
+        "Fats": "6,6 г",
+        "Carbohydrates": "15,5 г"
+    },
+    {
+        "Title": "Салат картофельный с грибами и брусникой",
+        "Colories": "123,6 кКал",
+        "Proteins": "4,2 г",
+        "Fats": "9,1 г",
+        "Carbohydrates": "6,7 г"
+    },
+    {
+        "Title": "Салат картофельный с грибами и клюквой",
+        "Colories": "123,6 кКал",
+        "Proteins": "4,2 г",
+        "Fats": "9,1 г",
+        "Carbohydrates": "6,7 г"
+    },
+    {
+        "Title": "Салат картофельный с яблоками",
+        "Colories": "109,5 кКал",
+        "Proteins": "2 г",
+        "Fats": "7,9 г",
+        "Carbohydrates": "8,2 г"
+    },
+    {
+        "Title": "Салат любительский",
+        "Colories": "97,3 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "5,5 г",
+        "Carbohydrates": "11,2 г"
+    },
+    {
+        "Title": "Салат Муравейник",
+        "Colories": "235,4 кКал",
+        "Proteins": "12,6 г",
+        "Fats": "7,9 г",
+        "Carbohydrates": "30,2 г"
+    },
+    {
+        "Title": "Салат мясной",
+        "Colories": "205,1 кКал",
+        "Proteins": "7,1 г",
+        "Fats": "15,5 г",
+        "Carbohydrates": "9,9 г"
+    },
+    {
+        "Title": "Салат мясной",
+        "Colories": "254 кКал",
+        "Proteins": "11,8 г",
+        "Fats": "20,7 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "Title": "Салат овощной с редькой и яблоками",
+        "Colories": "157,3 кКал",
+        "Proteins": "2 г",
+        "Fats": "13,5 г",
+        "Carbohydrates": "7,4 г"
+    },
+    {
+        "Title": "Салат овощной с яблоками и сладким перцем",
+        "Colories": "123,8 кКал",
+        "Proteins": "1,4 г",
+        "Fats": "10,8 г",
+        "Carbohydrates": "5,7 г"
+    },
+    {
+        "Title": "Салат освежающий с редькой",
+        "Colories": "47,9 кКал",
+        "Proteins": "1,7 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "10,3 г"
+    },
+    {
+        "Title": "Салат осенний",
+        "Colories": "82,1 кКал",
+        "Proteins": "1,6 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "5,6 г"
+    },
+    {
+        "Title": "Салат по-берлински",
+        "Colories": "219,7 кКал",
+        "Proteins": "1,9 г",
+        "Fats": "21,6 г",
+        "Carbohydrates": "4,8 г"
+    },
+    {
+        "Title": "Салат по-деревенски",
+        "Colories": "113,7 кКал",
+        "Proteins": "2,6 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "10,1 г"
+    },
+    {
+        "Title": "Салат по-коми-пермяцки (из квашеной капусты с мясом)",
+        "Colories": "143 кКал",
+        "Proteins": "10,5 г",
+        "Fats": "10,1 г",
+        "Carbohydrates": "2,8 г"
+    },
+    {
+        "Title": "Салат по-французски",
+        "Colories": "166,6 кКал",
+        "Proteins": "2,1 г",
+        "Fats": "14,3 г",
+        "Carbohydrates": "7,9 г"
+    },
+    {
+        "Title": "Салат по-чешски",
+        "Colories": "196,6 кКал",
+        "Proteins": "4,2 г",
+        "Fats": "18,4 г",
+        "Carbohydrates": "3,8 г"
+    },
+    {
+        "Title": "Салат рыбный",
+        "Colories": "153,3 кКал",
+        "Proteins": "6,4 г",
+        "Fats": "12,4 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "Title": "Салат рыбный",
+        "Colories": "204,2 кКал",
+        "Proteins": "12,1 г",
+        "Fats": "15,7 г",
+        "Carbohydrates": "3,9 г"
+    },
+    {
+        "Title": "Салат рыбный с морской капустой",
+        "Colories": "119 кКал",
+        "Proteins": "8,8 г",
+        "Fats": "7,5 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "Title": "Салат с кальмарами",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Салат с колбасой",
+        "Colories": "182,5 кКал",
+        "Proteins": "4 г",
+        "Fats": "14,8 г",
+        "Carbohydrates": "8,9 г"
+    },
+    {
+        "Title": "Салат с копченой треской",
+        "Colories": "122,2 кКал",
+        "Proteins": "6,9 г",
+        "Fats": "8,8 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "Title": "Салат с креветками",
+        "Colories": "250,9 кКал",
+        "Proteins": "7,7 г",
+        "Fats": "23,3 г",
+        "Carbohydrates": "2,7 г"
+    },
+    {
+        "Title": "Салат с кукурузой",
+        "Colories": "319,9 кКал",
+        "Proteins": "7,4 г",
+        "Fats": "22,5 г",
+        "Carbohydrates": "23,4 г"
+    },
+    {
+        "Title": "Салат с маслом и уксусом",
+        "Colories": "167,2 кКал",
+        "Proteins": "1,4 г",
+        "Fats": "15,8 г",
+        "Carbohydrates": "5,1 г"
+    },
+    {
+        "Title": "Салат с сардинами",
+        "Colories": "85,1 кКал",
+        "Proteins": "6,1 г",
+        "Fats": "2,6 г",
+        "Carbohydrates": "10 г"
+    },
+    {
+        "Title": "Салат с сельдереем и творогом",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Салат сезонный",
+        "Colories": "129,8 кКал",
+        "Proteins": "2,1 г",
+        "Fats": "10,1 г",
+        "Carbohydrates": "8,2 г"
+    },
+    {
+        "Title": "Салат со сметаной и яйцом",
+        "Colories": "81,4 кКал",
+        "Proteins": "1,8 г",
+        "Fats": "7 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "Title": "Салат столичный",
+        "Colories": "325,2 кКал",
+        "Proteins": "15,9 г",
+        "Fats": "27,8 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "Title": "Салат фруктовый со сметанным соусом",
+        "Colories": "137,7 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "7,9 г",
+        "Carbohydrates": "16,6 г"
+    },
+    {
+        "Title": "Салат яичный",
+        "Colories": "214,2 кКал",
+        "Proteins": "7,3 г",
+        "Fats": "19,5 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "Салат-коктейль \"Экзотик\"",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Салат-коктейль овощной",
+        "Colories": "147,4 кКал",
+        "Proteins": "1,8 г",
+        "Fats": "12,8 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "Title": "Салат-коктейль рыбный",
+        "Colories": "217,6 кКал",
+        "Proteins": "13,9 г",
+        "Fats": "17,3 г",
+        "Carbohydrates": "1,7 г"
+    },
+    {
+        "Title": "Салат-коктейль с ветчиной и сыром",
+        "Colories": "273,6 кКал",
+        "Proteins": "12,4 г",
+        "Fats": "23,8 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "Салат-коктейль с курицей и фруктами",
+        "Colories": "245,1 кКал",
+        "Proteins": "10,3 г",
+        "Fats": "19,1 г",
+        "Carbohydrates": "8,6 г"
+    },
+    {
+        "Title": "Свекла в сладком маринаде",
+        "Colories": "48,6 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "12,4 г"
+    },
+    {
+        "Title": "Свекла с клюквой",
+        "Colories": "103,7 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "6,2 г",
+        "Carbohydrates": "11,2 г"
+    },
+    {
+        "Title": "Селедка \"под шубой\"",
+        "Colories": "209,5 кКал",
+        "Proteins": "8 г",
+        "Fats": "18,2 г",
+        "Carbohydrates": "3,7 г"
+    },
+    {
+        "Title": "Сельдь протертая с маслом",
+        "Colories": "319 кКал",
+        "Proteins": "16,1 г",
+        "Fats": "26,4 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "Title": "Сыр картофельный",
+        "Colories": "154,6 кКал",
+        "Proteins": "9,1 г",
+        "Fats": "9,6 г",
+        "Carbohydrates": "8,5 г"
+    },
+    {
+        "Title": "Сыр слоеный",
+        "Colories": "196,1 кКал",
+        "Proteins": "16 г",
+        "Fats": "14,2 г",
+        "Carbohydrates": "1,1 г"
+    },
+    {
+        "Title": "Сырный салат",
+        "Colories": "153,4 кКал",
+        "Proteins": "5,6 г",
+        "Fats": "11,6 г",
+        "Carbohydrates": "7,2 г"
+    },
+    {
+        "Title": "Сырный салат",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Фальшивый Оливье",
+        "Colories": "167 кКал",
+        "Proteins": "11,1 г",
+        "Fats": "8,8 г",
+        "Carbohydrates": "11,5 г"
+    },
+    {
+        "Title": "Черемша с маслом (национальное блюдо народов Севера)",
+        "Colories": "124,3 кКал",
+        "Proteins": "3,4 г",
+        "Fats": "8,7 г",
+        "Carbohydrates": "8,6 г"
+    },
+    {
+        "Title": "Яблочный салат с сельдереем и помидорами.",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Яичный салат",
+        "Colories": "181,7 кКал",
+        "Proteins": "9,7 г",
+        "Fats": "15,1 г",
+        "Carbohydrates": "1,9 г"
+    }
+]

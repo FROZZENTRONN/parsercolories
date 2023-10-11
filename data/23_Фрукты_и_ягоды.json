@@ -1,0 +1,2662 @@
+﻿[
+    {
+        "Title": "Абрикосовое пюре",
+        "Colories": "60 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "0 г",
+        "Carbohydrates": "13,9 г"
+    },
+    {
+        "Title": "Абрикосовый джем",
+        "Colories": "276 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0 г",
+        "Carbohydrates": "71,6 г"
+    },
+    {
+        "Title": "Абрикосовый компот. Консервы",
+        "Colories": "89 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0,08 г",
+        "Carbohydrates": "21,7 г"
+    },
+    {
+        "Title": "Абрикосы",
+        "Colories": "44 кКал",
+        "Proteins": "0,9 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "9 г"
+    },
+    {
+        "Title": "Абрикосы",
+        "Colories": "48 кКал",
+        "Proteins": "1,4 г",
+        "Fats": "0,39 г",
+        "Carbohydrates": "9,12 г"
+    },
+    {
+        "Title": "Абрикосы без кожуры, консервированные в водной заливке",
+        "Colories": "22 кКал",
+        "Proteins": "0,69 г",
+        "Fats": "0,03 г",
+        "Carbohydrates": "4,38 г"
+    },
+    {
+        "Title": "Абрикосы без кожуры, консервированные в насыщенном сахарном сиропе",
+        "Colories": "83 кКал",
+        "Proteins": "0,51 г",
+        "Fats": "0,09 г",
+        "Carbohydrates": "19,85 г"
+    },
+    {
+        "Title": "Абрикосы без кожуры, консервированные в экстра-насыщенном сахарном сиропе",
+        "Colories": "96 кКал",
+        "Proteins": "0,55 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "23,25 г"
+    },
+    {
+        "Title": "Абрикосы замороженные подслащенные",
+        "Colories": "98 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "22,9 г"
+    },
+    {
+        "Title": "Абрикосы сушеные",
+        "Colories": "241 кКал",
+        "Proteins": "3,39 г",
+        "Fats": "0,51 г",
+        "Carbohydrates": "55,34 г"
+    },
+    {
+        "Title": "Абрикосы сушеные (дегидрированные), сульфитированные, неприготовленные",
+        "Colories": "320 кКал",
+        "Proteins": "4,9 г",
+        "Fats": "0,62 г",
+        "Carbohydrates": "82,89 г"
+    },
+    {
+        "Title": "Абрикосы сушеные (дегидрированные), сульфитированные, тушеные",
+        "Colories": "126 кКал",
+        "Proteins": "1,93 г",
+        "Fats": "0,24 г",
+        "Carbohydrates": "32,62 г"
+    },
+    {
+        "Title": "Абрикосы сушеные (курага), тушеные без сахара",
+        "Colories": "85 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "0,18 г",
+        "Carbohydrates": "19,55 г"
+    },
+    {
+        "Title": "Абрикосы сушеные (курага), тушеные с сахаром",
+        "Colories": "113 кКал",
+        "Proteins": "1,17 г",
+        "Fats": "0,15 г",
+        "Carbohydrates": "25,16 г"
+    },
+    {
+        "Title": "Абрикосы сушеные с косточкой (урюк)",
+        "Colories": "242 кКал",
+        "Proteins": "5 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Абрикосы, консервированные (половинки или кусочки)",
+        "Colories": "85 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0 г",
+        "Carbohydrates": "21 г"
+    },
+    {
+        "Title": "Абрикосы, консервированные в водной заливке",
+        "Colories": "27 кКал",
+        "Proteins": "0,71 г",
+        "Fats": "0,16 г",
+        "Carbohydrates": "4,79 г"
+    },
+    {
+        "Title": "Абрикосы, консервированные в легком сахарном сиропе",
+        "Colories": "63 кКал",
+        "Proteins": "0,53 г",
+        "Fats": "0,05 г",
+        "Carbohydrates": "14,89 г"
+    },
+    {
+        "Title": "Абрикосы, консервированные в насыщенном сахарном сиропе",
+        "Colories": "83 кКал",
+        "Proteins": "0,64 г",
+        "Fats": "0,11 г",
+        "Carbohydrates": "18,61 г"
+    },
+    {
+        "Title": "Абрикосы, консервированные в насыщенном сахарном сиропе",
+        "Colories": "83 кКал",
+        "Proteins": "0,53 г",
+        "Fats": "0,08 г",
+        "Carbohydrates": "19,87 г"
+    },
+    {
+        "Title": "Абрикосы, консервированные в экстра-легком сахарном сиропе",
+        "Colories": "49 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "10,9 г"
+    },
+    {
+        "Title": "Айва",
+        "Colories": "48 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "9,6 г"
+    },
+    {
+        "Title": "Айва",
+        "Colories": "57 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "13,4 г"
+    },
+    {
+        "Title": "Айвовый компот. Консервы",
+        "Colories": "82 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "19,7 г"
+    },
+    {
+        "Title": "Актинидия  (дальневосточное киви)",
+        "Colories": "56 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "13 г"
+    },
+    {
+        "Title": "Ананас",
+        "Colories": "52 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "11,8 г"
+    },
+    {
+        "Title": "Ананас замороженный, подслащенный",
+        "Colories": "86 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "21,1 г"
+    },
+    {
+        "Title": "Ананас, все сорта",
+        "Colories": "50 кКал",
+        "Proteins": "0,54 г",
+        "Fats": "0,12 г",
+        "Carbohydrates": "11,72 г"
+    },
+    {
+        "Title": "Ананас, консервированный в водной заливке",
+        "Colories": "32 кКал",
+        "Proteins": "0,43 г",
+        "Fats": "0,09 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "Title": "Ананас, консервированный в легком сахарном сиропе",
+        "Colories": "52 кКал",
+        "Proteins": "0,36 г",
+        "Fats": "0,12 г",
+        "Carbohydrates": "12,65 г"
+    },
+    {
+        "Title": "Ананас, консервированный в насыщенном сахарном сиропе",
+        "Colories": "78 кКал",
+        "Proteins": "0,35 г",
+        "Fats": "0,11 г",
+        "Carbohydrates": "19,4 г"
+    },
+    {
+        "Title": "Ананас, консервированный в собственном соку",
+        "Colories": "60 кКал",
+        "Proteins": "0,51 г",
+        "Fats": "0,11 г",
+        "Carbohydrates": "14,26 г"
+    },
+    {
+        "Title": "Ананас, консервированный в экстра-насыщенном сахарном сиропе",
+        "Colories": "83 кКал",
+        "Proteins": "0,34 г",
+        "Fats": "0,11 г",
+        "Carbohydrates": "20,7 г"
+    },
+    {
+        "Title": "Ананас, несладкие сорта",
+        "Colories": "45 кКал",
+        "Proteins": "0,55 г",
+        "Fats": "0,13 г",
+        "Carbohydrates": "11,82 г"
+    },
+    {
+        "Title": "Ананас, сладкие сорта",
+        "Colories": "51 кКал",
+        "Proteins": "0,53 г",
+        "Fats": "0,11 г",
+        "Carbohydrates": "12,1 г"
+    },
+    {
+        "Title": "Аннона сетчатая (кремовое яблоко, \"бычье сердце\")",
+        "Colories": "101 кКал",
+        "Proteins": "1,7 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "22,8 г"
+    },
+    {
+        "Title": "Апельсин",
+        "Colories": "43 кКал",
+        "Proteins": "0,9 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "8,1 г"
+    },
+    {
+        "Title": "Апельсин валенсийский, Калифорния",
+        "Colories": "49 кКал",
+        "Proteins": "1,04 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "9,39 г"
+    },
+    {
+        "Title": "Апельсин пупочный (сорт навел)",
+        "Colories": "49 кКал",
+        "Proteins": "0,91 г",
+        "Fats": "0,15 г",
+        "Carbohydrates": "10,34 г"
+    },
+    {
+        "Title": "Апельсин с цедрой",
+        "Colories": "63 кКал",
+        "Proteins": "1,3 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "11 г"
+    },
+    {
+        "Title": "Апельсин Флорида",
+        "Colories": "46 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,21 г",
+        "Carbohydrates": "9,14 г"
+    },
+    {
+        "Title": "Апельсин, все сорта",
+        "Colories": "47 кКал",
+        "Proteins": "0,94 г",
+        "Fats": "0,12 г",
+        "Carbohydrates": "9,35 г"
+    },
+    {
+        "Title": "Апельсиновая цедра, сырая",
+        "Colories": "97 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "14,4 г"
+    },
+    {
+        "Title": "Апельсиновый джем",
+        "Colories": "268 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "66,3 г"
+    },
+    {
+        "Title": "Арбуз",
+        "Colories": "27 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "5,8 г"
+    },
+    {
+        "Title": "Арбуз, сырой",
+        "Colories": "30 кКал",
+        "Proteins": "0,61 г",
+        "Fats": "0,15 г",
+        "Carbohydrates": "7,15 г"
+    },
+    {
+        "Title": "Ацерола (барбадосская вишня)",
+        "Colories": "32 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "6,59 г"
+    },
+    {
+        "Title": "Банан",
+        "Colories": "96 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "21 г"
+    },
+    {
+        "Title": "Бананы",
+        "Colories": "89 кКал",
+        "Proteins": "1,09 г",
+        "Fats": "0,33 г",
+        "Carbohydrates": "20,24 г"
+    },
+    {
+        "Title": "Бананы высушенные (дегидрированные) или банановый порошок",
+        "Colories": "346 кКал",
+        "Proteins": "3,89 г",
+        "Fats": "1,81 г",
+        "Carbohydrates": "78,38 г"
+    },
+    {
+        "Title": "Барбарис",
+        "Colories": "84 кКал",
+        "Proteins": "4,5 г",
+        "Fats": "4,7 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "Title": "Бойзенова ягода, замороженная, неподслащенная",
+        "Colories": "50 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "0,26 г",
+        "Carbohydrates": "6,89 г"
+    },
+    {
+        "Title": "Бойзенова ягода, консервированная в насыщенном сахарном сиропе",
+        "Colories": "88 кКал",
+        "Proteins": "0,99 г",
+        "Fats": "0,12 г",
+        "Carbohydrates": "19,71 г"
+    },
+    {
+        "Title": "Боярышник кроваво-красный",
+        "Colories": "62 кКал",
+        "Proteins": "1,12 г",
+        "Fats": "0 г",
+        "Carbohydrates": "14,2 г"
+    },
+    {
+        "Title": "Брусника",
+        "Colories": "46 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "8,2 г"
+    },
+    {
+        "Title": "Бузина",
+        "Colories": "73 кКал",
+        "Proteins": "0,66 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "11,4 г"
+    },
+    {
+        "Title": "Бузина, сырая",
+        "Colories": "73 кКал",
+        "Proteins": "0,66 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "11,4 г"
+    },
+    {
+        "Title": "Вакциниум сетчатый (охело )",
+        "Colories": "28 кКал",
+        "Proteins": "0,38 г",
+        "Fats": "0,22 г",
+        "Carbohydrates": "6,84 г"
+    },
+    {
+        "Title": "Варенье из айвы",
+        "Colories": "273 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "70,6 г"
+    },
+    {
+        "Title": "Варенье из груши",
+        "Colories": "273 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "70,8 г"
+    },
+    {
+        "Title": "Варенье из кизила",
+        "Colories": "274 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0 г",
+        "Carbohydrates": "72,3 г"
+    },
+    {
+        "Title": "Варенье из клубники",
+        "Colories": "285 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "74 г"
+    },
+    {
+        "Title": "Варенье из малины",
+        "Colories": "273 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "70,4 г"
+    },
+    {
+        "Title": "Варенье из мандаринов",
+        "Colories": "294 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "75,9 г"
+    },
+    {
+        "Title": "Варенье из персиков",
+        "Colories": "258 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0 г",
+        "Carbohydrates": "66,8 г"
+    },
+    {
+        "Title": "Варенье из рябины черноплодной",
+        "Colories": "387 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0 г",
+        "Carbohydrates": "74,8 г"
+    },
+    {
+        "Title": "Варенье из сливы",
+        "Colories": "288 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "74,2 г"
+    },
+    {
+        "Title": "Варенье из яблок",
+        "Colories": "265 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "68,2 г"
+    },
+    {
+        "Title": "Виноград",
+        "Colories": "72 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "15,4 г"
+    },
+    {
+        "Title": "Виноград американский (с грубой кожурой)",
+        "Colories": "67 кКал",
+        "Proteins": "0,63 г",
+        "Fats": "0,35 г",
+        "Carbohydrates": "16,25 г"
+    },
+    {
+        "Title": "Виноград киш-миш, консервированный в водной заливке",
+        "Colories": "40 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0,11 г",
+        "Carbohydrates": "9,7 г"
+    },
+    {
+        "Title": "Виноград киш-миш, консервированный в насыщенном сахарном сиропе",
+        "Colories": "76 кКал",
+        "Proteins": "0,48 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "19,05 г"
+    },
+    {
+        "Title": "Виноград, красный или белый, европейский (например, киш-миш)",
+        "Colories": "69 кКал",
+        "Proteins": "0,72 г",
+        "Fats": "0,16 г",
+        "Carbohydrates": "17,2 г"
+    },
+    {
+        "Title": "Виноград, мускатный",
+        "Colories": "57 кКал",
+        "Proteins": "0,81 г",
+        "Fats": "0,47 г",
+        "Carbohydrates": "10,03 г"
+    },
+    {
+        "Title": "Вишневый компот. Консервы",
+        "Colories": "101 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "23,7 г"
+    },
+    {
+        "Title": "Вишня",
+        "Colories": "52 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "10,6 г"
+    },
+    {
+        "Title": "Вишня",
+        "Colories": "50 кКал",
+        "Proteins": "1 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "10,58 г"
+    },
+    {
+        "Title": "Вишня войлочная",
+        "Colories": "39 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "9 г"
+    },
+    {
+        "Title": "Вишня замороженная, неподслащенная",
+        "Colories": "46 кКал",
+        "Proteins": "0,92 г",
+        "Fats": "0,44 г",
+        "Carbohydrates": "9,42 г"
+    },
+    {
+        "Title": "Вишня коктейльная, консервированная",
+        "Colories": "165 кКал",
+        "Proteins": "0,22 г",
+        "Fats": "0,21 г",
+        "Carbohydrates": "38,77 г"
+    },
+    {
+        "Title": "Вишня Монморанси, сушеная, подслащенная",
+        "Colories": "333 кКал",
+        "Proteins": "1,25 г",
+        "Fats": "0,73 г",
+        "Carbohydrates": "77,95 г"
+    },
+    {
+        "Title": "Вишня, консервированная в водной заливке",
+        "Colories": "36 кКал",
+        "Proteins": "0,77 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "7,84 г"
+    },
+    {
+        "Title": "Вишня, консервированная в водной заливке, содержимое без жидкости",
+        "Colories": "42 кКал",
+        "Proteins": "0,69 г",
+        "Fats": "0,21 г",
+        "Carbohydrates": "9,25 г"
+    },
+    {
+        "Title": "Вишня, консервированная в легком сахарном сиропе",
+        "Colories": "75 кКал",
+        "Proteins": "0,74 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "18,5 г"
+    },
+    {
+        "Title": "Вишня, консервированная в насыщенном сахарном сиропе",
+        "Colories": "91 кКал",
+        "Proteins": "0,73 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "22,17 г"
+    },
+    {
+        "Title": "Вишня, консервированная в экстра-насыщенном сахарном сиропе",
+        "Colories": "114 кКал",
+        "Proteins": "0,71 г",
+        "Fats": "0,09 г",
+        "Carbohydrates": "28,43 г"
+    },
+    {
+        "Title": "Голубика",
+        "Colories": "39 кКал",
+        "Proteins": "1 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "Title": "Гранат",
+        "Colories": "72 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "14,5 г"
+    },
+    {
+        "Title": "Гранат",
+        "Colories": "83 кКал",
+        "Proteins": "1,67 г",
+        "Fats": "1,17 г",
+        "Carbohydrates": "14,7 г"
+    },
+    {
+        "Title": "Грейпфрут",
+        "Colories": "35 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "Грейпфрут белый",
+        "Colories": "33 кКал",
+        "Proteins": "0,69 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "7,31 г"
+    },
+    {
+        "Title": "Грейпфрут белый, Калифорнийский",
+        "Colories": "37 кКал",
+        "Proteins": "0,88 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "9,09 г"
+    },
+    {
+        "Title": "Грейпфрут белый, Флоридский",
+        "Colories": "32 кКал",
+        "Proteins": "0,63 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "8,19 г"
+    },
+    {
+        "Title": "Грейпфрут розовый и красный",
+        "Colories": "42 кКал",
+        "Proteins": "0,77 г",
+        "Fats": "0,14 г",
+        "Carbohydrates": "9,06 г"
+    },
+    {
+        "Title": "Грейпфрут розовый и красный, Калифорнийский и Аризонский",
+        "Colories": "37 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "9,69 г"
+    },
+    {
+        "Title": "Грейпфрут розовый и красный, Флоридский",
+        "Colories": "30 кКал",
+        "Proteins": "0,55 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "6,4 г"
+    },
+    {
+        "Title": "Грейпфрут, все виды",
+        "Colories": "32 кКал",
+        "Proteins": "0,63 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "6,98 г"
+    },
+    {
+        "Title": "Грейпфрут, консервированный в водной заливке",
+        "Colories": "36 кКал",
+        "Proteins": "0,58 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "8,75 г"
+    },
+    {
+        "Title": "Грейпфрут, консервированный в легком сахарном сиропе",
+        "Colories": "60 кКал",
+        "Proteins": "0,56 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "15,04 г"
+    },
+    {
+        "Title": "Грейпфрут, консервированный в собственном соку",
+        "Colories": "37 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,09 г",
+        "Carbohydrates": "8,81 г"
+    },
+    {
+        "Title": "Груша",
+        "Colories": "57 кКал",
+        "Proteins": "0,36 г",
+        "Fats": "0,14 г",
+        "Carbohydrates": "12,13 г"
+    },
+    {
+        "Title": "Груша",
+        "Colories": "47 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "10,3 г"
+    },
+    {
+        "Title": "Груша азиатская (китайская)",
+        "Colories": "42 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0,23 г",
+        "Carbohydrates": "7,05 г"
+    },
+    {
+        "Title": "Груша Анжу зеленая",
+        "Colories": "66 кКал",
+        "Proteins": "0,44 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "12,69 г"
+    },
+    {
+        "Title": "Груша Анжу красная",
+        "Colories": "62 кКал",
+        "Proteins": "0,33 г",
+        "Fats": "0,14 г",
+        "Carbohydrates": "11,94 г"
+    },
+    {
+        "Title": "Груша Бартлетт (вильямс, дюшес)",
+        "Colories": "63 кКал",
+        "Proteins": "0,39 г",
+        "Fats": "0,16 г",
+        "Carbohydrates": "11,91 г"
+    },
+    {
+        "Title": "Груша Бере Боск",
+        "Colories": "67 кКал",
+        "Proteins": "0,36 г",
+        "Fats": "0,09 г",
+        "Carbohydrates": "13 г"
+    },
+    {
+        "Title": "Груша сушеная",
+        "Colories": "270 кКал",
+        "Proteins": "2,3 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "62,6 г"
+    },
+    {
+        "Title": "Грушевый компот. Консервы",
+        "Colories": "74 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "18,1 г"
+    },
+    {
+        "Title": "Груши сушеные",
+        "Colories": "262 кКал",
+        "Proteins": "1,87 г",
+        "Fats": "0,63 г",
+        "Carbohydrates": "62,2 г"
+    },
+    {
+        "Title": "Груши сушеные, тушеные без сахара",
+        "Colories": "127 кКал",
+        "Proteins": "0,91 г",
+        "Fats": "0,31 г",
+        "Carbohydrates": "27,41 г"
+    },
+    {
+        "Title": "Груши сушеные, тушеные с сахаром",
+        "Colories": "140 кКал",
+        "Proteins": "0,86 г",
+        "Fats": "0,29 г",
+        "Carbohydrates": "31,34 г"
+    },
+    {
+        "Title": "Груши, консервированные в водной заливке",
+        "Colories": "29 кКал",
+        "Proteins": "0,19 г",
+        "Fats": "0,03 г",
+        "Carbohydrates": "6,21 г"
+    },
+    {
+        "Title": "Груши, консервированные в легком сахарном сиропе",
+        "Colories": "57 кКал",
+        "Proteins": "0,19 г",
+        "Fats": "0,03 г",
+        "Carbohydrates": "13,57 г"
+    },
+    {
+        "Title": "Груши, консервированные в насыщенном сахарном сиропе",
+        "Colories": "74 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0,13 г",
+        "Carbohydrates": "17,57 г"
+    },
+    {
+        "Title": "Груши, консервированные в насыщенном сахарном сиропе, сухой продукт",
+        "Colories": "74 кКал",
+        "Proteins": "0,24 г",
+        "Fats": "0,18 г",
+        "Carbohydrates": "16,38 г"
+    },
+    {
+        "Title": "Груши, консервированные в собственном соку",
+        "Colories": "50 кКал",
+        "Proteins": "0,34 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "11,34 г"
+    },
+    {
+        "Title": "Груши, консервированные в экстра-легком сахарном сиропе",
+        "Colories": "47 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "10,6 г"
+    },
+    {
+        "Title": "Груши, консервированные в экстра-насыщенном сахарном сиропе",
+        "Colories": "97 кКал",
+        "Proteins": "0,19 г",
+        "Fats": "0,13 г",
+        "Carbohydrates": "23,65 г"
+    },
+    {
+        "Title": "Гуава",
+        "Colories": "68 кКал",
+        "Proteins": "2,55 г",
+        "Fats": "0,95 г",
+        "Carbohydrates": "8,92 г"
+    },
+    {
+        "Title": "Гуава земляничная",
+        "Colories": "69 кКал",
+        "Proteins": "0,58 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "11,96 г"
+    },
+    {
+        "Title": "Гуава, соус, приготовленный",
+        "Colories": "36 кКал",
+        "Proteins": "0,32 г",
+        "Fats": "0,14 г",
+        "Carbohydrates": "5,88 г"
+    },
+    {
+        "Title": "Джамболан (ямболан), сырой",
+        "Colories": "60 кКал",
+        "Proteins": "0,72 г",
+        "Fats": "0,23 г",
+        "Carbohydrates": "15,56 г"
+    },
+    {
+        "Title": "Джекфрут, консервированный в сахарном сиропе",
+        "Colories": "92 кКал",
+        "Proteins": "0,36 г",
+        "Fats": "0,14 г",
+        "Carbohydrates": "23,04 г"
+    },
+    {
+        "Title": "Джекфрут, сырой",
+        "Colories": "95 кКал",
+        "Proteins": "1,72 г",
+        "Fats": "0,64 г",
+        "Carbohydrates": "21,75 г"
+    },
+    {
+        "Title": "Дуриан",
+        "Colories": "147 кКал",
+        "Proteins": "1,47 г",
+        "Fats": "5,33 г",
+        "Carbohydrates": "23,29 г"
+    },
+    {
+        "Title": "Дыня",
+        "Colories": "35 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "7,4 г"
+    },
+    {
+        "Title": "Дыня белая мускатная",
+        "Colories": "36 кКал",
+        "Proteins": "0,54 г",
+        "Fats": "0,14 г",
+        "Carbohydrates": "8,29 г"
+    },
+    {
+        "Title": "Дыня замороженная, шарики",
+        "Colories": "33 кКал",
+        "Proteins": "0,84 г",
+        "Fats": "0,25 г",
+        "Carbohydrates": "7,24 г"
+    },
+    {
+        "Title": "Дыня зимняя, кассаба",
+        "Colories": "28 кКал",
+        "Proteins": "1,11 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "5,68 г"
+    },
+    {
+        "Title": "Дыня мускусная, канталупа",
+        "Colories": "34 кКал",
+        "Proteins": "0,84 г",
+        "Fats": "0,19 г",
+        "Carbohydrates": "7,26 г"
+    },
+    {
+        "Title": "Дыня рогатая, (кивано), огурец африканский",
+        "Colories": "44 кКал",
+        "Proteins": "1,78 г",
+        "Fats": "1,26 г",
+        "Carbohydrates": "7,56 г"
+    },
+    {
+        "Title": "Ежевика",
+        "Colories": "34 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "Title": "Ежевика",
+        "Colories": "43 кКал",
+        "Proteins": "1,39 г",
+        "Fats": "0,49 г",
+        "Carbohydrates": "4,31 г"
+    },
+    {
+        "Title": "Ежевика дикая (Аляска)",
+        "Colories": "52 кКал",
+        "Proteins": "0,84 г",
+        "Fats": "1,07 г",
+        "Carbohydrates": "6,64 г"
+    },
+    {
+        "Title": "Ежевика, замороженная, неподслащенная",
+        "Colories": "64 кКал",
+        "Proteins": "1,18 г",
+        "Fats": "0,43 г",
+        "Carbohydrates": "10,67 г"
+    },
+    {
+        "Title": "Ежевика, консервированная в насыщенном сахарном сиропе",
+        "Colories": "92 кКал",
+        "Proteins": "1,31 г",
+        "Fats": "0,14 г",
+        "Carbohydrates": "19,7 г"
+    },
+    {
+        "Title": "Жимолость",
+        "Colories": "41,2 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "8,5 г"
+    },
+    {
+        "Title": "Изюм без косточек (из винограда кишмиш)",
+        "Colories": "281 кКал",
+        "Proteins": "2,3 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "71,2 г"
+    },
+    {
+        "Title": "Изюм с косточками",
+        "Colories": "296 кКал",
+        "Proteins": "2,52 г",
+        "Fats": "0,54 г",
+        "Carbohydrates": "71,67 г"
+    },
+    {
+        "Title": "Изюм с косточками (виноград сушеный)",
+        "Colories": "276 кКал",
+        "Proteins": "1,8 г",
+        "Fats": "0,54 г",
+        "Carbohydrates": "70,9 г"
+    },
+    {
+        "Title": "Изюм чёрный без косточек (\"коринка\", из винограда Черный Коринф)",
+        "Colories": "290 кКал",
+        "Proteins": "3,43 г",
+        "Fats": "0,22 г",
+        "Carbohydrates": "72,58 г"
+    },
+    {
+        "Title": "Изюм, без косточек",
+        "Colories": "299 кКал",
+        "Proteins": "3,3 г",
+        "Fats": "0,25 г",
+        "Carbohydrates": "74,82 г"
+    },
+    {
+        "Title": "Изюм, золотистый, без косточек",
+        "Colories": "301 кКал",
+        "Proteins": "3,28 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "76,72 г"
+    },
+    {
+        "Title": "Инжир",
+        "Colories": "54 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "12 г"
+    },
+    {
+        "Title": "Инжир",
+        "Colories": "74 кКал",
+        "Proteins": "0,75 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "16,28 г"
+    },
+    {
+        "Title": "Инжир сушеный",
+        "Colories": "257 кКал",
+        "Proteins": "3,1 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "57,9 г"
+    },
+    {
+        "Title": "Инжир сушеный",
+        "Colories": "249 кКал",
+        "Proteins": "3,3 г",
+        "Fats": "0,93 г",
+        "Carbohydrates": "54,07 г"
+    },
+    {
+        "Title": "Инжир сушеный, подслащенный",
+        "Colories": "107 кКал",
+        "Proteins": "1,42 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "23,37 г"
+    },
+    {
+        "Title": "Инжир, консервированный в водной заливке",
+        "Colories": "53 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "11,79 г"
+    },
+    {
+        "Title": "Инжир, консервированный в легком сахарном сиропе",
+        "Colories": "69 кКал",
+        "Proteins": "0,39 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "16,15 г"
+    },
+    {
+        "Title": "Инжир, консервированный в насыщенном сахарном сиропе",
+        "Colories": "88 кКал",
+        "Proteins": "0,38 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "20,7 г"
+    },
+    {
+        "Title": "Инжир, консервированный в экстра-насыщенном сахарном сиропе",
+        "Colories": "107 кКал",
+        "Proteins": "0,38 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "27,86 г"
+    },
+    {
+        "Title": "Ирга",
+        "Colories": "47 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "11,4 г"
+    },
+    {
+        "Title": "Калина",
+        "Colories": "26,3 кКал",
+        "Proteins": "0,37 г",
+        "Fats": "1,5 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "Карамбола, сырая",
+        "Colories": "31 кКал",
+        "Proteins": "1,04 г",
+        "Fats": "0,33 г",
+        "Carbohydrates": "3,93 г"
+    },
+    {
+        "Title": "Карисса, сырая",
+        "Colories": "62 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "13,63 г"
+    },
+    {
+        "Title": "Келуак (кепаянг)",
+        "Colories": "111 кКал",
+        "Proteins": "2,3 г",
+        "Fats": "2 г",
+        "Carbohydrates": "17,7 г"
+    },
+    {
+        "Title": "Киви",
+        "Colories": "47 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "8,1 г"
+    },
+    {
+        "Title": "Киви Zespri Санголд, новозеландское",
+        "Colories": "63 кКал",
+        "Proteins": "1,02 г",
+        "Fats": "0,28 г",
+        "Carbohydrates": "14,39 г"
+    },
+    {
+        "Title": "Киви свежее",
+        "Colories": "61 кКал",
+        "Proteins": "1,14 г",
+        "Fats": "0,52 г",
+        "Carbohydrates": "11,66 г"
+    },
+    {
+        "Title": "Киви, джем",
+        "Colories": "243 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "58,9 г"
+    },
+    {
+        "Title": "Киви, пюре",
+        "Colories": "47 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "8,2 г"
+    },
+    {
+        "Title": "Кизил",
+        "Colories": "45 кКал",
+        "Proteins": "1 г",
+        "Fats": "0,011 г",
+        "Carbohydrates": "9 г"
+    },
+    {
+        "Title": "Клементины",
+        "Colories": "47 кКал",
+        "Proteins": "0,85 г",
+        "Fats": "0,15 г",
+        "Carbohydrates": "10,32 г"
+    },
+    {
+        "Title": "Клубника",
+        "Colories": "41 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "Title": "Клубника замороженная",
+        "Colories": "35 кКал",
+        "Proteins": "0,43 г",
+        "Fats": "0,11 г",
+        "Carbohydrates": "7,03 г"
+    },
+    {
+        "Title": "Клубника ломтиками, замороженная, подслащенная",
+        "Colories": "96 кКал",
+        "Proteins": "0,53 г",
+        "Fats": "0,13 г",
+        "Carbohydrates": "24,02 г"
+    },
+    {
+        "Title": "Клубника, сырая",
+        "Colories": "32 кКал",
+        "Proteins": "0,67 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "5,68 г"
+    },
+    {
+        "Title": "Клубничный компот, клубника консервированная в сахарном сиропе",
+        "Colories": "92 кКал",
+        "Proteins": "0,56 г",
+        "Fats": "0,26 г",
+        "Carbohydrates": "21,83 г"
+    },
+    {
+        "Title": "Клюква",
+        "Colories": "28 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "3,7 г"
+    },
+    {
+        "Title": "Клюква",
+        "Colories": "46 кКал",
+        "Proteins": "0,46 г",
+        "Fats": "0,13 г",
+        "Carbohydrates": "8,37 г"
+    },
+    {
+        "Title": "Клюква сушеная, подслащенная",
+        "Colories": "308 кКал",
+        "Proteins": "0,17 г",
+        "Fats": "1,09 г",
+        "Carbohydrates": "77,5 г"
+    },
+    {
+        "Title": "Клюквенно-апельсиновый соус, консервированный",
+        "Colories": "178 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "46,2 г"
+    },
+    {
+        "Title": "Клюквенный соус желеобразный, консервированный, OCEAN SPRAY",
+        "Colories": "160 кКал",
+        "Proteins": "1,05 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "39,61 г"
+    },
+    {
+        "Title": "Клюквенный соус с цельными ягодами, консервированный, OCEAN SPRAY",
+        "Colories": "158 кКал",
+        "Proteins": "0,75 г",
+        "Fats": "0,05 г",
+        "Carbohydrates": "39,2 г"
+    },
+    {
+        "Title": "Клюквенный соус, консервированный, подслащенный",
+        "Colories": "159 кКал",
+        "Proteins": "0,9 г",
+        "Fats": "0,15 г",
+        "Carbohydrates": "39,3 г"
+    },
+    {
+        "Title": "Компот из земляники. Консервы",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Компот из слив венгерка. Консервы",
+        "Colories": "96 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "23,9 г"
+    },
+    {
+        "Title": "Компот из слив ренклод. Консервы",
+        "Colories": "86 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "0 г",
+        "Carbohydrates": "21,9 г"
+    },
+    {
+        "Title": "Концентрат малинового сока",
+        "Colories": "221 кКал",
+        "Proteins": "3,04 г",
+        "Fats": "1,34 г",
+        "Carbohydrates": "52,09 г"
+    },
+    {
+        "Title": "Кратева священная",
+        "Colories": "69 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "12,3 г"
+    },
+    {
+        "Title": "Крыжовник",
+        "Colories": "45 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "Title": "Крыжовник",
+        "Colories": "44 кКал",
+        "Proteins": "0,88 г",
+        "Fats": "0,58 г",
+        "Carbohydrates": "5,88 г"
+    },
+    {
+        "Title": "Крыжовник, консервированный в легком сахарном сиропе",
+        "Colories": "73 кКал",
+        "Proteins": "0,65 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "16,35 г"
+    },
+    {
+        "Title": "Кумкват",
+        "Colories": "71 кКал",
+        "Proteins": "1,88 г",
+        "Fats": "0,86 г",
+        "Carbohydrates": "9,4 г"
+    },
+    {
+        "Title": "Курага (абрикосы сушеные без косточки)",
+        "Colories": "232 кКал",
+        "Proteins": "5,2 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "51 г"
+    },
+    {
+        "Title": "Лайм",
+        "Colories": "30 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "7,74 г"
+    },
+    {
+        "Title": "Лимон",
+        "Colories": "34 кКал",
+        "Proteins": "0,9 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "Title": "Лимон без цедры, сырые",
+        "Colories": "29 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "6,52 г"
+    },
+    {
+        "Title": "Лимонная цедра, сырая",
+        "Colories": "47 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "Title": "Лимонник китайский, ягоды высушенные с семенами",
+        "Colories": "416 кКал",
+        "Proteins": "0 г",
+        "Fats": "40,3 г",
+        "Carbohydrates": "13,3 г"
+    },
+    {
+        "Title": "Лимонник китайский, ягоды свежие без семян",
+        "Colories": "47 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,2 г"
+    },
+    {
+        "Title": "Личи",
+        "Colories": "66 кКал",
+        "Proteins": "0,83 г",
+        "Fats": "0,44 г",
+        "Carbohydrates": "15,23 г"
+    },
+    {
+        "Title": "Личи, сушеные",
+        "Colories": "277 кКал",
+        "Proteins": "3,8 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "66,1 г"
+    },
+    {
+        "Title": "Логанова ягода, мороженная",
+        "Colories": "55 кКал",
+        "Proteins": "1,52 г",
+        "Fats": "0,31 г",
+        "Carbohydrates": "7,72 г"
+    },
+    {
+        "Title": "Лонган",
+        "Colories": "60 кКал",
+        "Proteins": "1,31 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "14,04 г"
+    },
+    {
+        "Title": "Лонган, сушеный",
+        "Colories": "286 кКал",
+        "Proteins": "4,9 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "74 г"
+    },
+    {
+        "Title": "Малайское яблоко (Ямбоза)",
+        "Colories": "25 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "5,7 г"
+    },
+    {
+        "Title": "Малина",
+        "Colories": "52 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "0,65 г",
+        "Carbohydrates": "5,44 г"
+    },
+    {
+        "Title": "Малина",
+        "Colories": "46 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "8,3 г"
+    },
+    {
+        "Title": "Малина дикая (индейцы северных великих равнин)",
+        "Colories": "62 кКал",
+        "Proteins": "1,12 г",
+        "Fats": "0,28 г",
+        "Carbohydrates": "6,35 г"
+    },
+    {
+        "Title": "Малина красная, замороженная",
+        "Colories": "56 кКал",
+        "Proteins": "1,15 г",
+        "Fats": "0,81 г",
+        "Carbohydrates": "8,25 г"
+    },
+    {
+        "Title": "Малина красная, замороженная, подслащенная",
+        "Colories": "103 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,16 г",
+        "Carbohydrates": "21,76 г"
+    },
+    {
+        "Title": "Малина красная, консервированная в насыщенном сахарном сиропе",
+        "Colories": "91 кКал",
+        "Proteins": "0,83 г",
+        "Fats": "0,12 г",
+        "Carbohydrates": "20,06 г"
+    },
+    {
+        "Title": "Малиновое пюре без семян, без сахара",
+        "Colories": "41 кКал",
+        "Proteins": "1,02 г",
+        "Fats": "0,87 г",
+        "Carbohydrates": "7,09 г"
+    },
+    {
+        "Title": "Малиновое пюре с семенами, без сахара",
+        "Colories": "55 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "0,97 г",
+        "Carbohydrates": "7,21 г"
+    },
+    {
+        "Title": "Мамея (маммея), антильский абрикос, сырой",
+        "Colories": "51 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "9,5 г"
+    },
+    {
+        "Title": "Манго",
+        "Colories": "60 кКал",
+        "Proteins": "0,82 г",
+        "Fats": "0,38 г",
+        "Carbohydrates": "13,38 г"
+    },
+    {
+        "Title": "Манго сушеное подслащенное",
+        "Colories": "319 кКал",
+        "Proteins": "2,45 г",
+        "Fats": "1,18 г",
+        "Carbohydrates": "76,18 г"
+    },
+    {
+        "Title": "Мангостан (мангустин), консервированный в сиропе",
+        "Colories": "73 кКал",
+        "Proteins": "0,41 г",
+        "Fats": "0,58 г",
+        "Carbohydrates": "16,11 г"
+    },
+    {
+        "Title": "Мандарин",
+        "Colories": "53 кКал",
+        "Proteins": "0,81 г",
+        "Fats": "0,31 г",
+        "Carbohydrates": "11,54 г"
+    },
+    {
+        "Title": "Мандарин",
+        "Colories": "38 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "Title": "Мандарин, консервированный в легком сахарном сиропе",
+        "Colories": "61 кКал",
+        "Proteins": "0,45 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "15,49 г"
+    },
+    {
+        "Title": "Мандарин, консервированный в собственном соку",
+        "Colories": "37 кКал",
+        "Proteins": "0,62 г",
+        "Fats": "0,03 г",
+        "Carbohydrates": "8,87 г"
+    },
+    {
+        "Title": "Мандарин, консервированный в собственном соку, сухой продукт",
+        "Colories": "38 кКал",
+        "Proteins": "0,75 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "8,21 г"
+    },
+    {
+        "Title": "Мандариновый джем",
+        "Colories": "276 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "0 г",
+        "Carbohydrates": "71,8 г"
+    },
+    {
+        "Title": "Маракуйя (пурпурная гранадилла)",
+        "Colories": "97 кКал",
+        "Proteins": "2,2 г",
+        "Fats": "0,7 г",
+        "Carbohydrates": "12,98 г"
+    },
+    {
+        "Title": "Можжевельник, шишкоягоды",
+        "Colories": "130 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "28,7 г"
+    },
+    {
+        "Title": "Морошка",
+        "Colories": "40 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "7,4 г"
+    },
+    {
+        "Title": "Морошка (Аляска)",
+        "Colories": "51 кКал",
+        "Proteins": "2,4 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "8,6 г"
+    },
+    {
+        "Title": "Мушмула",
+        "Colories": "47 кКал",
+        "Proteins": "0,43 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "10,44 г"
+    },
+    {
+        "Title": "Нансе фрукт (бирсонима толстолистная), замороженный",
+        "Colories": "73 кКал",
+        "Proteins": "0,66 г",
+        "Fats": "1,16 г",
+        "Carbohydrates": "9,47 г"
+    },
+    {
+        "Title": "Нансе фрукт (бирсонима толстолистная), консервированный в сиропе",
+        "Colories": "95 кКал",
+        "Proteins": "0,56 г",
+        "Fats": "1,28 г",
+        "Carbohydrates": "15,79 г"
+    },
+    {
+        "Title": "Наранхилла, замороженная",
+        "Colories": "25 кКал",
+        "Proteins": "0,44 г",
+        "Fats": "0,22 г",
+        "Carbohydrates": "4,8 г"
+    },
+    {
+        "Title": "Нектарин",
+        "Colories": "44 кКал",
+        "Proteins": "1,06 г",
+        "Fats": "0,32 г",
+        "Carbohydrates": "8,85 г"
+    },
+    {
+        "Title": "Облепиха",
+        "Colories": "82 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "5,4 г",
+        "Carbohydrates": "5,7 г"
+    },
+    {
+        "Title": "Опунция (колючая груша)",
+        "Colories": "41 кКал",
+        "Proteins": "0,73 г",
+        "Fats": "0,51 г",
+        "Carbohydrates": "5,97 г"
+    },
+    {
+        "Title": "Папайя",
+        "Colories": "43 кКал",
+        "Proteins": "0,47 г",
+        "Fats": "0,26 г",
+        "Carbohydrates": "9,12 г"
+    },
+    {
+        "Title": "Папайя, консервированная в насыщенном сиропе",
+        "Colories": "206 кКал",
+        "Proteins": "0,14 г",
+        "Fats": "0,55 г",
+        "Carbohydrates": "54,33 г"
+    },
+    {
+        "Title": "Пектин жидкий",
+        "Colories": "11 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Персик",
+        "Colories": "45 кКал",
+        "Proteins": "0,9 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "9,5 г"
+    },
+    {
+        "Title": "Персик",
+        "Colories": "39 кКал",
+        "Proteins": "0,91 г",
+        "Fats": "0,25 г",
+        "Carbohydrates": "8,04 г"
+    },
+    {
+        "Title": "Персик сушеный",
+        "Colories": "254 кКал",
+        "Proteins": "3 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "57,7 г"
+    },
+    {
+        "Title": "Персики ломтиками, замороженные, подслащенные",
+        "Colories": "94 кКал",
+        "Proteins": "0,63 г",
+        "Fats": "0,13 г",
+        "Carbohydrates": "22,18 г"
+    },
+    {
+        "Title": "Персики сушеные",
+        "Colories": "239 кКал",
+        "Proteins": "3,61 г",
+        "Fats": "0,76 г",
+        "Carbohydrates": "53,13 г"
+    },
+    {
+        "Title": "Персики сушеные (дегидрированные)",
+        "Colories": "325 кКал",
+        "Proteins": "4,89 г",
+        "Fats": "1,03 г",
+        "Carbohydrates": "83,18 г"
+    },
+    {
+        "Title": "Персики сушеные (дегидрированные), тушеные",
+        "Colories": "133 кКал",
+        "Proteins": "2,01 г",
+        "Fats": "0,42 г",
+        "Carbohydrates": "34,14 г"
+    },
+    {
+        "Title": "Персики сушеные, тушеные без сахара",
+        "Colories": "77 кКал",
+        "Proteins": "1,16 г",
+        "Fats": "0,25 г",
+        "Carbohydrates": "16,99 г"
+    },
+    {
+        "Title": "Персики сушеные, тушеные с сахаром",
+        "Colories": "103 кКал",
+        "Proteins": "1,06 г",
+        "Fats": "0,22 г",
+        "Carbohydrates": "24,2 г"
+    },
+    {
+        "Title": "Персики, консервированные в водной заливке",
+        "Colories": "24 кКал",
+        "Proteins": "0,44 г",
+        "Fats": "0,06 г",
+        "Carbohydrates": "4,81 г"
+    },
+    {
+        "Title": "Персики, консервированные в легком сиропе",
+        "Colories": "54 кКал",
+        "Proteins": "0,45 г",
+        "Fats": "0,03 г",
+        "Carbohydrates": "13,25 г"
+    },
+    {
+        "Title": "Персики, консервированные в насыщенном сиропе",
+        "Colories": "74 кКал",
+        "Proteins": "0,45 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "18,64 г"
+    },
+    {
+        "Title": "Персики, консервированные в насыщенном сиропе, приправленные",
+        "Colories": "75 кКал",
+        "Proteins": "0,41 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "18,78 г"
+    },
+    {
+        "Title": "Персики, консервированные в насыщенном сиропе, сухой продукт",
+        "Colories": "72 кКал",
+        "Proteins": "0,52 г",
+        "Fats": "0,18 г",
+        "Carbohydrates": "17,23 г"
+    },
+    {
+        "Title": "Персики, консервированные в собственном соку",
+        "Colories": "44 кКал",
+        "Proteins": "0,63 г",
+        "Fats": "0,03 г",
+        "Carbohydrates": "10,27 г"
+    },
+    {
+        "Title": "Персики, консервированные в экстра-легком сиропе",
+        "Colories": "42 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "10,1 г"
+    },
+    {
+        "Title": "Персики, консервированные в экстра-насыщенном сиропе",
+        "Colories": "96 кКал",
+        "Proteins": "0,47 г",
+        "Fats": "0,03 г",
+        "Carbohydrates": "25,06 г"
+    },
+    {
+        "Title": "Персиковый компот. Консервы",
+        "Colories": "88 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "21,6 г"
+    },
+    {
+        "Title": "Питанга (суринамская вишня), сырая",
+        "Colories": "33 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "7,49 г"
+    },
+    {
+        "Title": "Плантан (овощной банан) жёлтый, жареный, латинский ресторан",
+        "Colories": "236 кКал",
+        "Proteins": "1,42 г",
+        "Fats": "7,51 г",
+        "Carbohydrates": "37,57 г"
+    },
+    {
+        "Title": "Плантан (овощной банан) жёлтый, приготовленный",
+        "Colories": "155 кКал",
+        "Proteins": "1,52 г",
+        "Fats": "0,16 г",
+        "Carbohydrates": "39,17 г"
+    },
+    {
+        "Title": "Плантан (овощной банан) жёлтый, сырой",
+        "Colories": "122 кКал",
+        "Proteins": "1,3 г",
+        "Fats": "0,35 г",
+        "Carbohydrates": "30,19 г"
+    },
+    {
+        "Title": "Плантан (овощной банан) зелёный жареный",
+        "Colories": "309 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "11,81 г",
+        "Carbohydrates": "45,67 г"
+    },
+    {
+        "Title": "Плантан (овощной банан) зелёный, вареный",
+        "Colories": "121 кКал",
+        "Proteins": "1,09 г",
+        "Fats": "0,08 г",
+        "Carbohydrates": "26,55 г"
+    },
+    {
+        "Title": "Плантан (овощной банан) зелёный, сырой",
+        "Colories": "152 кКал",
+        "Proteins": "1,25 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "34,46 г"
+    },
+    {
+        "Title": "Плоды хлебного дерева, сырые",
+        "Colories": "103 кКал",
+        "Proteins": "1,07 г",
+        "Fats": "0,23 г",
+        "Carbohydrates": "22,22 г"
+    },
+    {
+        "Title": "Помело",
+        "Colories": "38 кКал",
+        "Proteins": "0,76 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "8,62 г"
+    },
+    {
+        "Title": "Порошок из плодов баобаба",
+        "Colories": "250 кКал",
+        "Proteins": "3,69 г",
+        "Fats": "0,47 г",
+        "Carbohydrates": "35,15 г"
+    },
+    {
+        "Title": "Рамбутан, консервированный в сахарном сиропе",
+        "Colories": "82 кКал",
+        "Proteins": "0,65 г",
+        "Fats": "0,21 г",
+        "Carbohydrates": "19,97 г"
+    },
+    {
+        "Title": "Ревень",
+        "Colories": "21 кКал",
+        "Proteins": "0,9 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "2,74 г"
+    },
+    {
+        "Title": "Ревень, замороженный, неприготовленный",
+        "Colories": "21 кКал",
+        "Proteins": "0,55 г",
+        "Fats": "0,11 г",
+        "Carbohydrates": "3,3 г"
+    },
+    {
+        "Title": "Ревень, замороженный, приготовленный с сахаром",
+        "Colories": "116 кКал",
+        "Proteins": "0,39 г",
+        "Fats": "0,05 г",
+        "Carbohydrates": "29,2 г"
+    },
+    {
+        "Title": "Розелла, сырая",
+        "Colories": "49 кКал",
+        "Proteins": "0,96 г",
+        "Fats": "0,64 г",
+        "Carbohydrates": "11,31 г"
+    },
+    {
+        "Title": "Рябина садовая красная",
+        "Colories": "50 кКал",
+        "Proteins": "1,4 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "8,9 г"
+    },
+    {
+        "Title": "Рябина черноплодная",
+        "Colories": "55 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "10,9 г"
+    },
+    {
+        "Title": "Саподилла, сырая",
+        "Colories": "83 кКал",
+        "Proteins": "0,44 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "14,66 г"
+    },
+    {
+        "Title": "Сапота (мармеладный плод), сырая",
+        "Colories": "124 кКал",
+        "Proteins": "1,45 г",
+        "Fats": "0,46 г",
+        "Carbohydrates": "26,7 г"
+    },
+    {
+        "Title": "Саусеп (сметанное яблоко) сырой",
+        "Colories": "66 кКал",
+        "Proteins": "1 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "13,54 г"
+    },
+    {
+        "Title": "Сахарные яблоки (анона), сырые",
+        "Colories": "94 кКал",
+        "Proteins": "2,06 г",
+        "Fats": "0,29 г",
+        "Carbohydrates": "19,24 г"
+    },
+    {
+        "Title": "Слива",
+        "Colories": "46 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,28 г",
+        "Carbohydrates": "10,02 г"
+    },
+    {
+        "Title": "Слива (садовая)",
+        "Colories": "49 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "9,6 г"
+    },
+    {
+        "Title": "Слива вишненосная, алыча",
+        "Colories": "34 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "7,9 г"
+    },
+    {
+        "Title": "Слива дикая, северо-американская",
+        "Colories": "91 кКал",
+        "Proteins": "0,43 г",
+        "Fats": "0,17 г",
+        "Carbohydrates": "15,95 г"
+    },
+    {
+        "Title": "Слива Мирабель (желтая слива)",
+        "Colories": "40 кКал",
+        "Proteins": "1 г",
+        "Fats": "0 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "Title": "Слива синяя, консервированная в водной заливке",
+        "Colories": "41 кКал",
+        "Proteins": "0,39 г",
+        "Fats": "0,01 г",
+        "Carbohydrates": "10,13 г"
+    },
+    {
+        "Title": "Слива синяя, консервированная в легком сахарном сиропе",
+        "Colories": "63 кКал",
+        "Proteins": "0,37 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "15,38 г"
+    },
+    {
+        "Title": "Слива синяя, консервированная в насыщенном сахарном сиропе",
+        "Colories": "89 кКал",
+        "Proteins": "0,36 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "22,34 г"
+    },
+    {
+        "Title": "Слива синяя, консервированная в собственном соку",
+        "Colories": "58 кКал",
+        "Proteins": "0,51 г",
+        "Fats": "0,02 г",
+        "Carbohydrates": "14,25 г"
+    },
+    {
+        "Title": "Слива синяя, консервированная в экстра-насыщенном сахарном сиропе",
+        "Colories": "101 кКал",
+        "Proteins": "0,36 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "25,31 г"
+    },
+    {
+        "Title": "Сливы, консервированные в насыщенном сиропе, сухой продукт",
+        "Colories": "89 кКал",
+        "Proteins": "0,44 г",
+        "Fats": "0,14 г",
+        "Carbohydrates": "21,62 г"
+    },
+    {
+        "Title": "Смородина белая",
+        "Colories": "42 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "8 г"
+    },
+    {
+        "Title": "Смородина красная",
+        "Colories": "43 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "7,7 г"
+    },
+    {
+        "Title": "Смородина черная",
+        "Colories": "44 кКал",
+        "Proteins": "1 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "Title": "Смородина черная, европейская",
+        "Colories": "63 кКал",
+        "Proteins": "1,4 г",
+        "Fats": "0,41 г",
+        "Carbohydrates": "15,38 г"
+    },
+    {
+        "Title": "Смородина, красная и белая",
+        "Colories": "56 кКал",
+        "Proteins": "1,4 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "9,5 г"
+    },
+    {
+        "Title": "Тамаринд, сырой",
+        "Colories": "239 кКал",
+        "Proteins": "2,8 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "57,4 г"
+    },
+    {
+        "Title": "Терн",
+        "Colories": "54 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "9,4 г"
+    },
+    {
+        "Title": "Фейхоа",
+        "Colories": "61 кКал",
+        "Proteins": "0,71 г",
+        "Fats": "0,42 г",
+        "Carbohydrates": "8,81 г"
+    },
+    {
+        "Title": "Физалис",
+        "Colories": "53 кКал",
+        "Proteins": "1,9 г",
+        "Fats": "0,7 г",
+        "Carbohydrates": "11,2 г"
+    },
+    {
+        "Title": "Финик, королевский",
+        "Colories": "277 кКал",
+        "Proteins": "1,81 г",
+        "Fats": "0,15 г",
+        "Carbohydrates": "68,27 г"
+    },
+    {
+        "Title": "Финики",
+        "Colories": "292 кКал",
+        "Proteins": "2,5 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "69,2 г"
+    },
+    {
+        "Title": "Финики Деглет нур",
+        "Colories": "282 кКал",
+        "Proteins": "2,45 г",
+        "Fats": "0,39 г",
+        "Carbohydrates": "67,03 г"
+    },
+    {
+        "Title": "Фруктовый коктейль (персик, ананас, груша, виноград и вишня), консервированный в водной заливке",
+        "Colories": "32 кКал",
+        "Proteins": "0,42 г",
+        "Fats": "0,05 г",
+        "Carbohydrates": "7,51 г"
+    },
+    {
+        "Title": "Фруктовый коктейль (персик, ананас, груша, виноград и вишня), консервированный в легком сахарном сиропе",
+        "Colories": "57 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "13,93 г"
+    },
+    {
+        "Title": "Фруктовый коктейль (персик, ананас, груша, виноград и вишня), консервированный в насыщенном сахарном сиропе",
+        "Colories": "73 кКал",
+        "Proteins": "0,39 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "17,91 г"
+    },
+    {
+        "Title": "Фруктовый коктейль (персик, ананас, груша, виноград и вишня), консервированный в собственном соку",
+        "Colories": "46 кКал",
+        "Proteins": "0,46 г",
+        "Fats": "0,01 г",
+        "Carbohydrates": "10,86 г"
+    },
+    {
+        "Title": "Фруктовый коктейль (персик, ананас, груша, виноград и вишня), консервированный в экстра-легком сахарном сиропе",
+        "Colories": "45 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "10,53 г"
+    },
+    {
+        "Title": "Фруктовый коктейль (персик, ананас, груша, виноград и вишня), консервированный в экстра-насыщенном сахарном сиропе",
+        "Colories": "88 кКал",
+        "Proteins": "0,39 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "21,79 г"
+    },
+    {
+        "Title": "Фруктовый коктейль, консервированный в насыщенном сахарном сиропе, сухой продукт",
+        "Colories": "70 кКал",
+        "Proteins": "0,47 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "17,1 г"
+    },
+    {
+        "Title": "Фруктовый салат (ананас, папайя, банан и гуава), консервированный в насыщенном сиропе",
+        "Colories": "86 кКал",
+        "Proteins": "0,41 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "21,06 г"
+    },
+    {
+        "Title": "Фруктовый салат (персик, груша, абрикос, ананас и вишня), консервированный в водной заливке",
+        "Colories": "30 кКал",
+        "Proteins": "0,35 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "6,87 г"
+    },
+    {
+        "Title": "Фруктовый салат (персик, груша, абрикос, ананас и вишня), консервированный в легком сиропе",
+        "Colories": "58 кКал",
+        "Proteins": "0,34 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "14,14 г"
+    },
+    {
+        "Title": "Фруктовый салат (персик, груша, абрикос, ананас и вишня), консервированный в собственном соку",
+        "Colories": "50 кКал",
+        "Proteins": "0,51 г",
+        "Fats": "0,03 г",
+        "Carbohydrates": "12,05 г"
+    },
+    {
+        "Title": "Фруктовый салат (персик, груша, абрикос, ананас и вишня), консервированный в экстра-насыщенном сахарном сиропе",
+        "Colories": "88 кКал",
+        "Proteins": "0,33 г",
+        "Fats": "0,06 г",
+        "Carbohydrates": "21,77 г"
+    },
+    {
+        "Title": "Хурма",
+        "Colories": "67 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "15,3 г"
+    },
+    {
+        "Title": "Хурма виргинская (американская)",
+        "Colories": "127 кКал",
+        "Proteins": "0,8 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "33,5 г"
+    },
+    {
+        "Title": "Хурма восточная",
+        "Colories": "70 кКал",
+        "Proteins": "0,58 г",
+        "Fats": "0,19 г",
+        "Carbohydrates": "14,99 г"
+    },
+    {
+        "Title": "Хурма восточная, сушеная",
+        "Colories": "274 кКал",
+        "Proteins": "1,38 г",
+        "Fats": "0,59 г",
+        "Carbohydrates": "58,93 г"
+    },
+    {
+        "Title": "Цукаты",
+        "Colories": "322 кКал",
+        "Proteins": "0,34 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "81,14 г"
+    },
+    {
+        "Title": "Черемуха",
+        "Colories": "46 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "10 г"
+    },
+    {
+        "Title": "Черёмуха виргинская, северо-американская",
+        "Colories": "162 кКал",
+        "Proteins": "3,04 г",
+        "Fats": "1,69 г",
+        "Carbohydrates": "13,62 г"
+    },
+    {
+        "Title": "Черешневый компот. Консервы",
+        "Colories": "87 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "20,6 г"
+    },
+    {
+        "Title": "Черешня",
+        "Colories": "63 кКал",
+        "Proteins": "1,06 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "13,91 г"
+    },
+    {
+        "Title": "Черешня",
+        "Colories": "52 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "10,6 г"
+    },
+    {
+        "Title": "Черешня, консервированная в водной заливке",
+        "Colories": "46 кКал",
+        "Proteins": "0,77 г",
+        "Fats": "0,13 г",
+        "Carbohydrates": "10,26 г"
+    },
+    {
+        "Title": "Черешня, консервированная в легком сиропе",
+        "Colories": "67 кКал",
+        "Proteins": "0,61 г",
+        "Fats": "0,15 г",
+        "Carbohydrates": "15,79 г"
+    },
+    {
+        "Title": "Черешня, консервированная в насыщенном сиропе",
+        "Colories": "83 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "0,15 г",
+        "Carbohydrates": "19,87 г"
+    },
+    {
+        "Title": "Черешня, консервированная в насыщенном сиропе, сухой продукт",
+        "Colories": "83 кКал",
+        "Proteins": "0,73 г",
+        "Fats": "0,21 г",
+        "Carbohydrates": "18,77 г"
+    },
+    {
+        "Title": "Черешня, консервированная в собственном соку",
+        "Colories": "54 кКал",
+        "Proteins": "0,91 г",
+        "Fats": "0,02 г",
+        "Carbohydrates": "12,31 г"
+    },
+    {
+        "Title": "Черешня, консервированная в экстра-насыщенном сиропе",
+        "Colories": "102 кКал",
+        "Proteins": "0,59 г",
+        "Fats": "0,15 г",
+        "Carbohydrates": "24,73 г"
+    },
+    {
+        "Title": "Черимойя",
+        "Colories": "75 кКал",
+        "Proteins": "1,57 г",
+        "Fats": "0,68 г",
+        "Carbohydrates": "14,71 г"
+    },
+    {
+        "Title": "Черника",
+        "Colories": "57 кКал",
+        "Proteins": "0,74 г",
+        "Fats": "0,33 г",
+        "Carbohydrates": "12,09 г"
+    },
+    {
+        "Title": "Черника",
+        "Colories": "44 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "7,6 г"
+    },
+    {
+        "Title": "Черника дикая (Аляска)",
+        "Colories": "61 кКал",
+        "Proteins": "1,22 г",
+        "Fats": "0,76 г",
+        "Carbohydrates": "9,71 г"
+    },
+    {
+        "Title": "Черника дикая замороженная, (Аляска)",
+        "Colories": "44 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0 г",
+        "Carbohydrates": "10,4 г"
+    },
+    {
+        "Title": "Черника дикая, замороженная",
+        "Colories": "57 кКал",
+        "Proteins": "0 г",
+        "Fats": "0,16 г",
+        "Carbohydrates": "9,45 г"
+    },
+    {
+        "Title": "Черника дикая, консервированная в насыщенном сиропе",
+        "Colories": "107 кКал",
+        "Proteins": "0,56 г",
+        "Fats": "0,34 г",
+        "Carbohydrates": "23,42 г"
+    },
+    {
+        "Title": "Черника сушеная, подслащенная",
+        "Colories": "317 кКал",
+        "Proteins": "2,5 г",
+        "Fats": "2,5 г",
+        "Carbohydrates": "72,5 г"
+    },
+    {
+        "Title": "Черника, замороженная, неподслащенная",
+        "Colories": "51 кКал",
+        "Proteins": "0,42 г",
+        "Fats": "0,64 г",
+        "Carbohydrates": "9,47 г"
+    },
+    {
+        "Title": "Черника, замороженная, подслащенная",
+        "Colories": "85 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,13 г",
+        "Carbohydrates": "19,75 г"
+    },
+    {
+        "Title": "Черника, консервированная в легком сахарном сиропе, сухой продукт",
+        "Colories": "88 кКал",
+        "Proteins": "1,04 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "20,06 г"
+    },
+    {
+        "Title": "Черника, консервированная в насыщенном сахарном сиропе",
+        "Colories": "88 кКал",
+        "Proteins": "0,65 г",
+        "Fats": "0,33 г",
+        "Carbohydrates": "20,46 г"
+    },
+    {
+        "Title": "Черника, сырая (Аляска)",
+        "Colories": "37 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "8,7 г"
+    },
+    {
+        "Title": "Чернослив (слива сушеная)",
+        "Colories": "240 кКал",
+        "Proteins": "2,18 г",
+        "Fats": "0,38 г",
+        "Carbohydrates": "56,78 г"
+    },
+    {
+        "Title": "Чернослив (слива сушеная)",
+        "Colories": "256 кКал",
+        "Proteins": "2,3 г",
+        "Fats": "0,7 г",
+        "Carbohydrates": "57,5 г"
+    },
+    {
+        "Title": "Чернослив (слива сушеная), тушеный без добавления сахара",
+        "Colories": "107 кКал",
+        "Proteins": "0,96 г",
+        "Fats": "0,16 г",
+        "Carbohydrates": "24,98 г"
+    },
+    {
+        "Title": "Чернослив (слива сушеная), тушеный с добавлением сахара",
+        "Colories": "124 кКал",
+        "Proteins": "1,09 г",
+        "Fats": "0,22 г",
+        "Carbohydrates": "29,08 г"
+    },
+    {
+        "Title": "Чернослив дегидрированный",
+        "Colories": "339 кКал",
+        "Proteins": "3,7 г",
+        "Fats": "0,73 г",
+        "Carbohydrates": "89,07 г"
+    },
+    {
+        "Title": "Чернослив дегидрированный, тушеный",
+        "Colories": "113 кКал",
+        "Proteins": "1,23 г",
+        "Fats": "0,24 г",
+        "Carbohydrates": "29,7 г"
+    },
+    {
+        "Title": "Чернослив со взбитыми сливками по 2-116",
+        "Colories": "281 кКал",
+        "Proteins": "2,3 г",
+        "Fats": "12,6 г",
+        "Carbohydrates": "38 г"
+    },
+    {
+        "Title": "Чернослив, консервированный в насыщенном сахарном сиропе",
+        "Colories": "105 кКал",
+        "Proteins": "0,87 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "24 г"
+    },
+    {
+        "Title": "Черносливовое пюре",
+        "Colories": "257 кКал",
+        "Proteins": "2,1 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "61,8 г"
+    },
+    {
+        "Title": "Черносмородиновый джем",
+        "Colories": "284 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "72,9 г"
+    },
+    {
+        "Title": "Шелковица",
+        "Colories": "43 кКал",
+        "Proteins": "1,44 г",
+        "Fats": "0,39 г",
+        "Carbohydrates": "8,1 г"
+    },
+    {
+        "Title": "Шелковица",
+        "Colories": "53 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,39 г",
+        "Carbohydrates": "12 г"
+    },
+    {
+        "Title": "Шиповник",
+        "Colories": "109 кКал",
+        "Proteins": "1,6 г",
+        "Fats": "0,7 г",
+        "Carbohydrates": "22,4 г"
+    },
+    {
+        "Title": "Шиповник дикий, северо-американский",
+        "Colories": "162 кКал",
+        "Proteins": "1,6 г",
+        "Fats": "0,34 г",
+        "Carbohydrates": "14,12 г"
+    },
+    {
+        "Title": "Шиповник сухой",
+        "Colories": "284 кКал",
+        "Proteins": "3,4 г",
+        "Fats": "1,4 г",
+        "Carbohydrates": "48,3 г"
+    },
+    {
+        "Title": "Ююба, сушеная",
+        "Colories": "281 кКал",
+        "Proteins": "4,72 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "66,52 г"
+    },
+    {
+        "Title": "Ююба, сырая",
+        "Colories": "79 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "20,23 г"
+    },
+    {
+        "Title": "Яблоки в сиропе. Консервы",
+        "Colories": "48 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "11,5 г"
+    },
+    {
+        "Title": "Яблоки дикие",
+        "Colories": "76 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "19,95 г"
+    },
+    {
+        "Title": "Яблоко",
+        "Colories": "52 кКал",
+        "Proteins": "0,26 г",
+        "Fats": "0,17 г",
+        "Carbohydrates": "11,41 г"
+    },
+    {
+        "Title": "Яблоко",
+        "Colories": "47 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "9,8 г"
+    },
+    {
+        "Title": "Яблоко без кожуры",
+        "Colories": "48 кКал",
+        "Proteins": "0,27 г",
+        "Fats": "0,13 г",
+        "Carbohydrates": "11,46 г"
+    },
+    {
+        "Title": "Яблоко без кожуры, вареное",
+        "Colories": "53 кКал",
+        "Proteins": "0,26 г",
+        "Fats": "0,36 г",
+        "Carbohydrates": "11,24 г"
+    },
+    {
+        "Title": "Яблоко без кожуры, приготовленное в микроволновой печи",
+        "Colories": "56 кКал",
+        "Proteins": "0,28 г",
+        "Fats": "0,42 г",
+        "Carbohydrates": "11,61 г"
+    },
+    {
+        "Title": "Яблоко Гала",
+        "Colories": "57 кКал",
+        "Proteins": "0,25 г",
+        "Fats": "0,12 г",
+        "Carbohydrates": "11,38 г"
+    },
+    {
+        "Title": "Яблоко Голден",
+        "Colories": "57 кКал",
+        "Proteins": "0,28 г",
+        "Fats": "0,15 г",
+        "Carbohydrates": "11,2 г"
+    },
+    {
+        "Title": "Яблоко Гренни Смит",
+        "Colories": "58 кКал",
+        "Proteins": "0,44 г",
+        "Fats": "0,19 г",
+        "Carbohydrates": "10,81 г"
+    },
+    {
+        "Title": "Яблоко замороженное",
+        "Colories": "48 кКал",
+        "Proteins": "0,28 г",
+        "Fats": "0,32 г",
+        "Carbohydrates": "11,01 г"
+    },
+    {
+        "Title": "Яблоко замороженное, разогретое",
+        "Colories": "47 кКал",
+        "Proteins": "0,29 г",
+        "Fats": "0,33 г",
+        "Carbohydrates": "10,7 г"
+    },
+    {
+        "Title": "Яблоко ломтиками, консервированное, подслащенное, сухой продукт без маринада, разогретые",
+        "Colories": "67 кКал",
+        "Proteins": "0,18 г",
+        "Fats": "0,43 г",
+        "Carbohydrates": "14,84 г"
+    },
+    {
+        "Title": "Яблоко Ред Делишес",
+        "Colories": "59 кКал",
+        "Proteins": "0,27 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "11,76 г"
+    },
+    {
+        "Title": "Яблоко сушеное",
+        "Colories": "253 кКал",
+        "Proteins": "2,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "59 г"
+    },
+    {
+        "Title": "Яблоко сушеное (дегидрированное), сульфитированное",
+        "Colories": "346 кКал",
+        "Proteins": "1,32 г",
+        "Fats": "0,58 г",
+        "Carbohydrates": "81,13 г"
+    },
+    {
+        "Title": "Яблоко сушеное (дегидрированное), тушеное",
+        "Colories": "74 кКал",
+        "Proteins": "0,28 г",
+        "Fats": "0,12 г",
+        "Carbohydrates": "17,31 г"
+    },
+    {
+        "Title": "Яблоко сушеное, сульфитированное",
+        "Colories": "243 кКал",
+        "Proteins": "0,93 г",
+        "Fats": "0,32 г",
+        "Carbohydrates": "57,19 г"
+    },
+    {
+        "Title": "Яблоко сушеное, тушеное без сахара",
+        "Colories": "57 кКал",
+        "Proteins": "0,22 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "13,32 г"
+    },
+    {
+        "Title": "Яблоко сушеное, тушеное с сахаром",
+        "Colories": "83 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "18,83 г"
+    },
+    {
+        "Title": "Яблоко Фуджи",
+        "Colories": "63 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0,18 г",
+        "Carbohydrates": "13,12 г"
+    },
+    {
+        "Title": "Яблочное повидло",
+        "Colories": "250 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0 г",
+        "Carbohydrates": "65 г"
+    },
+    {
+        "Title": "Яблочное пюре",
+        "Colories": "82 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "19 г"
+    },
+    {
+        "Title": "Яблочный компот. Консервы",
+        "Colories": "93 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "22,3 г"
+    },
+    {
+        "Title": "Яблочный соус, консервированный, неподслащенный, без добавления аскорбиновой кислоты",
+        "Colories": "42 кКал",
+        "Proteins": "0,17 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "10,17 г"
+    },
+    {
+        "Title": "Яблочный соус, консервированный, неподслащенный, с добавлением аскорбновой кислоты",
+        "Colories": "42 кКал",
+        "Proteins": "0,17 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "10,17 г"
+    },
+    {
+        "Title": "Яблочный соус, консервированный, подслащенный, без добавления соли",
+        "Colories": "68 кКал",
+        "Proteins": "0,16 г",
+        "Fats": "0,17 г",
+        "Carbohydrates": "16,29 г"
+    },
+    {
+        "Title": "Яблочный соус, консервированный, подслащенный, с солью",
+        "Colories": "76 кКал",
+        "Proteins": "0,18 г",
+        "Fats": "0,18 г",
+        "Carbohydrates": "18,71 г"
+    },
+    {
+        "Title": "Ягоды годжи, сушеные",
+        "Colories": "349 кКал",
+        "Proteins": "14,26 г",
+        "Fats": "0,39 г",
+        "Carbohydrates": "64,06 г"
+    }
+]

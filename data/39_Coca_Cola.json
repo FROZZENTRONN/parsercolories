@@ -1,0 +1,247 @@
+﻿[
+    {
+        "Title": "Aquarius [Coca-Cola]",
+        "Colories": "18 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "Title": "Aquarius Lemon [Coca-Cola]",
+        "Colories": "14 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "3,3 г"
+    },
+    {
+        "Title": "Cacaolat [Coca-Cola]",
+        "Colories": "40 кКал",
+        "Proteins": "2,7 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "Title": "Cherry (Банка) [Coca-Cola]",
+        "Colories": "150 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "42 г"
+    },
+    {
+        "Title": "Cherry [Coca-Cola]",
+        "Colories": "150 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "42 г"
+    },
+    {
+        "Title": "Cherry Zero [Coca-Cola]",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Cherry без Сахара [Coca-Cola]",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Coca-Cola",
+        "Colories": "42 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "10,6 г"
+    },
+    {
+        "Title": "Coca-Cola Cherry без Сахара",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Coca-Cola Cinnamon",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Coca-Cola Coffee",
+        "Colories": "20 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "Title": "Coca-Cola Energy",
+        "Colories": "42 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "10,3 г"
+    },
+    {
+        "Title": "Coca-Cola Life",
+        "Colories": "90 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "24 г"
+    },
+    {
+        "Title": "Coca-Cola Light",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Coca-Cola Lime",
+        "Colories": "43 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "10,6 г"
+    },
+    {
+        "Title": "Coca-Cola Orange без Сахара",
+        "Colories": "1 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Coca-Cola Zero",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Coca-Cola Лайм",
+        "Colories": "43 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "10,6 г"
+    },
+    {
+        "Title": "Energy без Сахара [Coca-Cola]",
+        "Colories": "1 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Fanta Apple [Coca-Cola]",
+        "Colories": "51 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "13,5 г"
+    },
+    {
+        "Title": "Plus Coffee [Coca-Cola]",
+        "Colories": "3 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Signature Mixers Smoky [Coca-Cola]",
+        "Colories": "43 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "10,6 г"
+    },
+    {
+        "Title": "Specialty [Coca-Cola]",
+        "Colories": "33 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "8,2 г"
+    },
+    {
+        "Title": "Sprite [Coca-Cola]",
+        "Colories": "19 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "4,5 г"
+    },
+    {
+        "Title": "Sprite Вкус Огурец [Coca-Cola]",
+        "Colories": "39 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "9,7 г"
+    },
+    {
+        "Title": "Sprite со Вкусом Арбуз-Огурец [Coca-Cola]",
+        "Colories": "1 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Vanilla [Coca-Cola]",
+        "Colories": "150 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "42 г"
+    },
+    {
+        "Title": "Vanilla [Coca-Cola]",
+        "Colories": "45 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "11,2 г"
+    },
+    {
+        "Title": "Вода [Coca-Cola]",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Кока-Кола Ванилла [Coca-Cola]",
+        "Colories": "45 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "11,2 г"
+    },
+    {
+        "Title": "Кока-Кола Зеро [Coca-Cola]",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Кола [Coca-Cola]",
+        "Colories": "42 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "10,6 г"
+    },
+    {
+        "Title": "Кола Лайт [Coca-Cola]",
+        "Colories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Напиток [Coca-Cola]",
+        "Colories": "42 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "10,6 г"
+    },
+    {
+        "Title": "Энергетик [Coca-Cola]",
+        "Colories": "1 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    }
+]
